@@ -102,7 +102,6 @@ Cada estrategia estudiada responderá siempre:
 └── 24-anexos.md
 
 ---
----
 
 # Ruta recomendada
 
