@@ -57,3 +57,79 @@ Cada estrategia estudiada responderá siempre:
 ---
 
 # Estructura del repositorio
+
+/
+│
+├── README.md
+├── index.html
+├── style.css
+├── script.js
+│
+├── assets/
+├── images/
+├── diagrams/
+├── examples/
+├── videos/
+├── pdf/
+│
+├── checklists/
+│
+└── chapters/
+├── 00-introduccion.md
+├── 01-como-piensan-los-gestores.md
+├── 02-fundamentos.md
+├── 03-contratos.md
+├── 04-calls.md
+├── 05-puts.md
+├── 06-greeks.md
+├── 07-volatilidad.md
+├── 08-cash-secured-put.md
+├── 09-covered-call.md
+├── 10-leaps.md
+├── 11-spreads.md
+├── 12-calendars.md
+├── 13-diagonals.md
+├── 14-iron-condor.md
+├── 15-protective-put.md
+├── 16-collar.md
+├── 17-wheel.md
+├── 18-gestion.md
+├── 19-rolls.md
+├── 20-assignment.md
+├── 21-ibkr.md
+├── 22-fiscalidad.md
+├── 23-integracion-swing.md
+└── 24-anexos.md
+
+
+---
+
+# Ruta recomendada
+
+| Parte | Nivel |
+|--------|-------|
+| Introducción | Básico |
+| Fundamentos | Básico |
+| Greeks | Intermedio |
+| Volatilidad | Intermedio |
+| Estrategias básicas | Intermedio |
+| Gestión | Avanzado |
+| Integración con Swing Trading | Profesional |
+
+---
+
+# Principios de inversión
+
+1. Preservar capital.
+2. Controlar el riesgo antes de buscar rentabilidad.
+3. Utilizar opciones únicamente cuando aporten una ventaja objetiva.
+4. Evitar complejidad innecesaria.
+5. Mantener siempre un plan de salida.
+
+---
+
+# Aviso
+
+Este material tiene finalidad educativa y técnica.
+
+No constituye asesoramiento financiero.
