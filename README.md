@@ -100,7 +100,7 @@ Cada estrategia estudiada responderá siempre:
 ├── 22-fiscalidad.md
 ├── 23-integracion-swing.md
 └── 24-anexos.md
-
+---
 
 ---
 
