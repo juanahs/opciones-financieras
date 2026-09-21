@@ -1,5 +1,11 @@
 name: Build and deploy MkDocs site
 
+# Grant minimal permissions required for the job to publish via actions
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 on:
   push:
     branches: [ main, master ]
@@ -9,6 +15,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
 
       - name: Set git user
         run: |
@@ -18,6 +27,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
+          # Pin to a stable Python 3.x that is compatible with MkDocs plugins
           python-version: '3.11'
 
       - name: Install dependencies
