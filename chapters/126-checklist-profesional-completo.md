@@ -3,7 +3,7 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Checklist Profesional Completo (3 Niveles)"
+title: "Capítulo 126 — Checklist Profesional Completo (3 Niveles)"
 
 ---
 

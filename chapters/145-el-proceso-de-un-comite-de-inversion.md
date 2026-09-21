@@ -3,7 +3,7 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "El Proceso de un Comité de Inversión Aplicado a Opciones"
+title: "Capítulo 145 — El Proceso de un Comité de Inversión Aplicado a Opciones"
 
 ---
 

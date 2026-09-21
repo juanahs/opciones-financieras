@@ -3,7 +3,7 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Opciones Sobre ETFs"
+title: "Capítulo 230 — Opciones sobre ETFs"
 
 ---
 

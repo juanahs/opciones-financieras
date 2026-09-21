@@ -3,7 +3,7 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Caso de Estudio: Berkshire Hathaway"
+title: "Capítulo 190 — Caso de Estudio: Berkshire Hathaway"
 
 ---
 

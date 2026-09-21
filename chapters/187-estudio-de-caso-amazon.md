@@ -3,7 +3,7 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Caso de Estudio: Amazon"
+title: "Capítulo 187 — Caso de Estudio: Amazon"
 
 ---
 

@@ -3,7 +3,7 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Los 25 Errores Más Frecuentes"
+title: "Capítulo 49 — Los 25 Errores Más Frecuentes"
 
 ---
 
