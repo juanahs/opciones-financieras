@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 142"
+title: "Capítulo 142 — Cuándo NO Utilizar Opciones"
 
 ---
 
-# Capítulo 142 — Capítulo 142
+# Capítulo 142 — Cuándo NO Utilizar Opciones
 
-# Cuándo NO Utilizar Opciones
+
 
 ---
 

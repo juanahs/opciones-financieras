@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 28"
+title: "Capítulo 28 — Cómo seleccionar el vencimiento"
 
 ---
 
-# Capítulo 28 — Capítulo 28
+# Capítulo 28 — Cómo seleccionar el vencimiento
 
-# Cómo seleccionar el vencimiento
+
 
 ---
 

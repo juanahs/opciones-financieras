@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 168"
+title: "Capítulo 168 — Framework VSA Aplicado a Opciones"
 
 ---
 
-# Capítulo 168 — Capítulo 168
+# Capítulo 168 — Framework VSA Aplicado a Opciones
 
-# Framework VSA Aplicado a Opciones
+
 
 ---
 

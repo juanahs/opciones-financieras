@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 147"
+title: "Capítulo 147 — Construcción de un Plan de Trading con Opciones"
 
 ---
 
-# Capítulo 147 — Capítulo 147
+# Capítulo 147 — Construcción de un Plan de Trading con Opciones
 
-# Construcción de un Plan de Trading con Opciones
+
 
 # Introducción
 

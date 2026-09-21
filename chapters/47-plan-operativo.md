@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 47"
+title: "Capítulo 47 — Plan Operativo para Opciones"
 
 ---
 
-# Capítulo 47 — Capítulo 47
+# Capítulo 47 — Plan Operativo para Opciones
 
-# Plan Operativo para Opciones
+
 
 ---
 

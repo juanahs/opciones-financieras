@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 46"
+title: "Capítulo 46 — Arquitectura de una Cartera con Opciones"
 
 ---
 
-# Capítulo 46 — Capítulo 46
+# Capítulo 46 — Arquitectura de una Cartera con Opciones
 
-# Arquitectura de una Cartera con Opciones
+
 
 ---
 

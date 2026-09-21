@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 186"
+title: "Capítulo 186 — Caso de Estudio: Visa y Mastercard"
 
 ---
 
-# Capítulo 186 — Capítulo 186
+# Capítulo 186 — Caso de Estudio: Visa y Mastercard
 
-# Caso de Estudio: Visa y Mastercard
+
 
 ---
 

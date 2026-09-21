@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 53"
+title: "Capítulo 53 — Spring Wyckoff y Selección de Estrategias con Opciones"
 
 ---
 
-# Capítulo 53 — Capítulo 53
+# Capítulo 53 — Spring Wyckoff y Selección de Estrategias con Opciones
 
-# Spring Wyckoff y Selección de Estrategias con Opciones
+
 
 ---
 

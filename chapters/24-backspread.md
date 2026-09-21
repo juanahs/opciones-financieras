@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 24"
+title: "Capítulo 24 — Backspread"
 
 ---
 
-# Capítulo 24 — Capítulo 24
+# Capítulo 24 — Backspread
 
-# Backspread
+
 
 ---
 

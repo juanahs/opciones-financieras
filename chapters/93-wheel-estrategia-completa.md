@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 93"
+title: "Capítulo 93 — La Estrategia Wheel: Análisis Profesional"
 
 ---
 
-# Capítulo 93 — Capítulo 93
+# Capítulo 93 — La Estrategia Wheel: Análisis Profesional
 
-# La Estrategia Wheel: Análisis Profesional
+
 
 ---
 

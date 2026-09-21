@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 86"
+title: "Capítulo 86 — Caso Práctico Completo: Microsoft"
 
 ---
 
-# Capítulo 86 — Capítulo 86
+# Capítulo 86 — Caso Práctico Completo: Microsoft
 
-# Caso Práctico Completo: Microsoft
+
 
 ---
 

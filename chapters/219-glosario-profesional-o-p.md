@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 219"
+title: "Capítulo 219 — Glosario Profesional (O-P)"
 
 ---
 
-# Capítulo 219 — Capítulo 219
+# Capítulo 219 — Glosario Profesional (O-P)
 
-# Glosario Profesional (O-P)
+
 
 ---
 

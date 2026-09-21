@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 87"
+title: "Capítulo 87 — Caso Práctico Completo: NVIDIA"
 
 ---
 
-# Capítulo 87 — Capítulo 87
+# Capítulo 87 — Caso Práctico Completo: NVIDIA
 
-# Caso Práctico Completo: NVIDIA
+
 
 ---
 

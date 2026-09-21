@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 110"
+title: "Capítulo 110 — Synthetic Short Stock"
 
 ---
 
-# Capítulo 110 — Capítulo 110
+# Capítulo 110 — Synthetic Short Stock
 
-# Synthetic Short Stock
+
 
 ---
 

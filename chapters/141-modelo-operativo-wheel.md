@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 141"
+title: "Capítulo 141 — Modelo Operativo Profesional para la Wheel"
 
 ---
 
-# Capítulo 141 — Capítulo 141
+# Capítulo 141 — Modelo Operativo Profesional para la Wheel
 
-# Modelo Operativo Profesional para la Wheel
+
 
 ---
 

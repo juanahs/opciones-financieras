@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 251"
+title: "Capítulo 251 — Caso Práctico: Microsoft"
 
 ---
 
-# Capítulo 251 — Capítulo 251
+# Capítulo 251 — Caso Práctico: Microsoft
 
-# Caso Práctico: Microsoft
+
 
 ---
 

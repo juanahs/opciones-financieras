@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 223"
+title: "Capítulo 223 — Glosario Profesional (U-V-W-X-Y-Z)"
 
 ---
 
-# Capítulo 223 — Capítulo 223
+# Capítulo 223 — Glosario Profesional (U-V-W-X-Y-Z)
 
-# Glosario Profesional (U-V-W-X-Y-Z)
+
 
 ---
 

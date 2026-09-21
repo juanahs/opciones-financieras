@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 180"
+title: "Capítulo 180 — Conclusión General"
 
 ---
 
-# Capítulo 180 — Capítulo 180
+# Capítulo 180 — Conclusión General
 
-# Conclusión General
+
 
 ---
 

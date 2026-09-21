@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 10"
+title: "Capítulo 10 — LEAPS"
 
 ---
 
-# Capítulo 10 — Capítulo 10
+# Capítulo 10 — LEAPS
 
-# LEAPS
+
 
 ---
 

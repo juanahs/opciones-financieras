@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 212"
+title: "Capítulo 212 — Glosario Profesional (B)"
 
 ---
 
-# Capítulo 212 — Capítulo 212
+# Capítulo 212 — Glosario Profesional (B)
 
-# Glosario Profesional (B)
+
 
 ---
 

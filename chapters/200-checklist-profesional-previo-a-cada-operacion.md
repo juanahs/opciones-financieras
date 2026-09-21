@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 200"
+title: "Capítulo 200 — Checklist Profesional Antes de Abrir una Operación"
 
 ---
 
-# Capítulo 200 — Capítulo 200
+# Capítulo 200 — Checklist Profesional Antes de Abrir una Operación
 
-# Checklist Profesional Antes de Abrir una Operación
+
 
 ---
 

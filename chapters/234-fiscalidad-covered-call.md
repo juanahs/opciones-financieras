@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 234"
+title: "Capítulo 234 — Fiscalidad de una Covered Call"
 
 ---
 
-# Capítulo 234 — Capítulo 234
+# Capítulo 234 — Fiscalidad de una Covered Call
 
-# Fiscalidad de una Covered Call
+
 
 ---
 

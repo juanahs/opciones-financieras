@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 66"
+title: "Capítulo 66 — Risk Navigator de Interactive Brokers"
 
 ---
 
-# Capítulo 66 — Capítulo 66
+# Capítulo 66 — Risk Navigator de Interactive Brokers
 
-# Risk Navigator de Interactive Brokers
+
 
 ---
 

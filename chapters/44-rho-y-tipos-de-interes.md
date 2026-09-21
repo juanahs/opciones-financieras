@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 44"
+title: "Capítulo 44 — Rho y Tipos de Interés"
 
 ---
 
-# Capítulo 44 — Capítulo 44
+# Capítulo 44 — Rho y Tipos de Interés
 
-# Rho y Tipos de Interés
+
 
 ---
 

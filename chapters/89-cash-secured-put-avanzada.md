@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 89"
+title: "Capítulo 89 — Cash Secured Put Avanzada"
 
 ---
 
-# Capítulo 89 — Capítulo 89
+# Capítulo 89 — Cash Secured Put Avanzada
 
-# Cash Secured Put Avanzada
+
 
 ---
 

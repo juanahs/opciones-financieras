@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 204"
+title: "Capítulo 204 — Checklist Profesional para un Bull Put Spread"
 
 ---
 
-# Capítulo 204 — Capítulo 204
+# Capítulo 204 — Checklist Profesional para un Bull Put Spread
 
-# Checklist Profesional para un Bull Put Spread
+
 
 ---
 

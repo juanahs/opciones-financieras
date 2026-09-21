@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 31"
+title: "Capítulo 31 — Dimensionamiento de Posiciones"
 
 ---
 
-# Capítulo 31 — Capítulo 31
+# Capítulo 31 — Dimensionamiento de Posiciones
 
-# Dimensionamiento de Posiciones
+
 
 ---
 

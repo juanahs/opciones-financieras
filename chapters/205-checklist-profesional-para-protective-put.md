@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 205"
+title: "Capítulo 205 — Checklist Profesional para una Protective Put"
 
 ---
 
-# Capítulo 205 — Capítulo 205
+# Capítulo 205 — Checklist Profesional para una Protective Put
 
-# Checklist Profesional para una Protective Put
+
 
 ---
 

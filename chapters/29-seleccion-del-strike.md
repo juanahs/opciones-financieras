@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 29"
+title: "Capítulo 29 — Cómo seleccionar el Strike"
 
 ---
 
-# Capítulo 29 — Capítulo 29
+# Capítulo 29 — Cómo seleccionar el Strike
 
-# Cómo seleccionar el Strike
+
 
 ---
 

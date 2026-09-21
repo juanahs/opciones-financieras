@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 102"
+title: "Capítulo 102 — Iron Butterfly Profesional"
 
 ---
 
-# Capítulo 102 — Capítulo 102
+# Capítulo 102 — Iron Butterfly Profesional
 
-# Iron Butterfly Profesional
+
 
 ---
 

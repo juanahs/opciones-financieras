@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 233"
+title: "Capítulo 233 — Fiscalidad de una Cash Secured Put"
 
 ---
 
-# Capítulo 233 — Capítulo 233
+# Capítulo 233 — Fiscalidad de una Cash Secured Put
 
-# Fiscalidad de una Cash Secured Put
+
 
 ---
 

@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 249"
+title: "Capítulo 249 — Caso Práctico: ARM mediante LEAPS"
 
 ---
 
-# Capítulo 249 — Capítulo 249
+# Capítulo 249 — Caso Práctico: ARM mediante LEAPS
 
-# Caso Práctico: ARM mediante LEAPS
+
 
 ---
 

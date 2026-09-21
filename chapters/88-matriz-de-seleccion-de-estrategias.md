@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 88"
+title: "Capítulo 88 — Matriz Maestra para Seleccionar Estrategias"
 
 ---
 
-# Capítulo 88 — Capítulo 88
+# Capítulo 88 — Matriz Maestra para Seleccionar Estrategias
 
-# Matriz Maestra para Seleccionar Estrategias
+
 
 ---
 

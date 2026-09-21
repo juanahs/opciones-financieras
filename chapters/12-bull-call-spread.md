@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 12"
+title: "Capítulo 12 — Bull Call Spread"
 
 ---
 
-# Capítulo 12 — Capítulo 12
+# Capítulo 12 — Bull Call Spread
 
-# Bull Call Spread
+
 
 ---
 

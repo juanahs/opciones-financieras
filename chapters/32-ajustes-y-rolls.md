@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 32"
+title: "Capítulo 32 — Ajustes y Rolls"
 
 ---
 
-# Capítulo 32 — Capítulo 32
+# Capítulo 32 — Ajustes y Rolls
 
-# Ajustes y Rolls
+
 
 ---
 

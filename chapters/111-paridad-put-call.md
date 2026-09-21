@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 111"
+title: "Capítulo 111 — Paridad Put-Call"
 
 ---
 
-# Capítulo 111 — Capítulo 111
+# Capítulo 111 — Paridad Put-Call
 
-# Paridad Put-Call
+
 
 ---
 

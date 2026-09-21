@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 179"
+title: "Capítulo 179 — Cómo Construir tu Manual Operativo Personal"
 
 ---
 
-# Capítulo 179 — Capítulo 179
+# Capítulo 179 — Cómo Construir tu Manual Operativo Personal
 
-# Cómo Construir tu Manual Operativo Personal
+
 
 ---
 

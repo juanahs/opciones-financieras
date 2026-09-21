@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 42"
+title: "Capítulo 42 — Theta en la práctica"
 
 ---
 
-# Capítulo 42 — Capítulo 42
+# Capítulo 42 — Theta en la práctica
 
-# Theta en la práctica
+
 
 ---
 

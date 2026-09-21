@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 240"
+title: "Capítulo 240 — Opciones sobre QQQ"
 
 ---
 
-# Capítulo 240 — Capítulo 240
+# Capítulo 240 — Opciones sobre QQQ
 
-# Opciones sobre QQQ
+
 
 ---
 

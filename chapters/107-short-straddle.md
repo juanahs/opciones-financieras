@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 107"
+title: "Capítulo 107 — Short Straddle"
 
 ---
 
-# Capítulo 107 — Capítulo 107
+# Capítulo 107 — Short Straddle
 
-# Short Straddle
+
 
 ---
 

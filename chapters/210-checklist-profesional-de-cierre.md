@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 210"
+title: "Capítulo 210 — Checklist Profesional Antes de Cerrar una Posición"
 
 ---
 
-# Capítulo 210 — Capítulo 210
+# Capítulo 210 — Checklist Profesional Antes de Cerrar una Posición
 
-# Checklist Profesional Antes de Cerrar una Posición
+
 
 ---
 

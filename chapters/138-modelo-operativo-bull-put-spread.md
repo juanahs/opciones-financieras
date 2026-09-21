@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 138"
+title: "Capítulo 138 — Modelo Operativo Profesional para Bull Put Spread"
 
 ---
 
-# Capítulo 138 — Capítulo 138
+# Capítulo 138 — Modelo Operativo Profesional para Bull Put Spread
 
-# Modelo Operativo Profesional para Bull Put Spread
+
 
 ---
 

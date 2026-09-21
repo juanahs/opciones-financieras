@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 103"
+title: "Capítulo 103 — Ratio Spread"
 
 ---
 
-# Capítulo 103 — Capítulo 103
+# Capítulo 103 — Ratio Spread
 
-# Ratio Spread
+
 
 ---
 

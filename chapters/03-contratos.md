@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 3"
+title: "Capítulo 3 — Anatomía de un contrato de opciones"
 
 ---
 
-# Capítulo 3 — Capítulo 3
+# Capítulo 3 — Anatomía de un contrato de opciones
 
-# Anatomía de un contrato de opciones
+
 
 ---
 

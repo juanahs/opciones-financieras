@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 7"
+title: "Capítulo 7 — Volatilidad Implícita"
 
 ---
 
-# Capítulo 7 — Capítulo 7
+# Capítulo 7 — Volatilidad Implícita
 
-# Volatilidad Implícita
+
 
 ---
 

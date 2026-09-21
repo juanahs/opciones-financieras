@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 85"
+title: "Capítulo 85 — Caso Práctico Completo: ASML"
 
 ---
 
-# Capítulo 85 — Capítulo 85
+# Capítulo 85 — Caso Práctico Completo: ASML
 
-# Caso Práctico Completo: ASML
+
 
 ---
 

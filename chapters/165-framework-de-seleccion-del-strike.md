@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 165"
+title: "Capítulo 165 — Framework Profesional para Seleccionar el Strike"
 
 ---
 
-# Capítulo 165 — Capítulo 165
+# Capítulo 165 — Framework Profesional para Seleccionar el Strike
 
-# Framework Profesional para Seleccionar el Strike
+
 
 ---
 

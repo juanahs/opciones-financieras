@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 92"
+title: "Capítulo 92 — Poor Man's Covered Call (PMCC)"
 
 ---
 
-# Capítulo 92 — Capítulo 92
+# Capítulo 92 — Poor Man's Covered Call (PMCC)
 
-# Poor Man's Covered Call (PMCC)
+
 
 ---
 

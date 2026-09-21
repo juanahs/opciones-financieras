@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 40"
+title: "Capítulo 40 — IV Rank e IV Percentile"
 
 ---
 
-# Capítulo 40 — Capítulo 40
+# Capítulo 40 — IV Rank e IV Percentile
 
-# IV Rank e IV Percentile
+
 
 ---
 

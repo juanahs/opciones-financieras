@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 39"
+title: "Capítulo 39 — Volatilidad Implícita Avanzada"
 
 ---
 
-# Capítulo 39 — Capítulo 39
+# Capítulo 39 — Volatilidad Implícita Avanzada
 
-# Volatilidad Implícita Avanzada
+
 
 ---
 

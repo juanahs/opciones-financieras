@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 189"
+title: "Capítulo 189 — Caso de Estudio: TSMC"
 
 ---
 
-# Capítulo 189 — Capítulo 189
+# Capítulo 189 — Caso de Estudio: TSMC
 
-# Caso de Estudio: TSMC
+
 
 ---
 

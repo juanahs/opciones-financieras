@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 81"
+title: "Capítulo 81 — Árbol Maestro de Decisión"
 
 ---
 
-# Capítulo 81 — Capítulo 81
+# Capítulo 81 — Árbol Maestro de Decisión
 
-# Árbol Maestro de Decisión
+
 
 ---
 

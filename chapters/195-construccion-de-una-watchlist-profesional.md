@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 195"
+title: "Capítulo 195 — Construcción de una Watchlist Profesional para Opciones"
 
 ---
 
-# Capítulo 195 — Capítulo 195
+# Capítulo 195 — Construcción de una Watchlist Profesional para Opciones
 
-# Construcción de una Watchlist Profesional para Opciones
+
 
 ---
 

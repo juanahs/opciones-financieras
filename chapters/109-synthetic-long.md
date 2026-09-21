@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 109"
+title: "Capítulo 109 — Synthetic Long Stock"
 
 ---
 
-# Capítulo 109 — Capítulo 109
+# Capítulo 109 — Synthetic Long Stock
 
-# Synthetic Long Stock
+
 
 ---
 

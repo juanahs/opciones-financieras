@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 108"
+title: "Capítulo 108 — ZEBRA (Zero Extrinsic Back Ratio)"
 
 ---
 
-# Capítulo 108 — Capítulo 108
+# Capítulo 108 — ZEBRA (Zero Extrinsic Back Ratio)
 
-# ZEBRA (Zero Extrinsic Back Ratio)
+
 
 ---
 

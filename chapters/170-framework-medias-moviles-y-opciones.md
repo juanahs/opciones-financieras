@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 170"
+title: "Capítulo 170 — Framework de Medias Móviles Aplicado a Opciones"
 
 ---
 
-# Capítulo 170 — Capítulo 170
+# Capítulo 170 — Framework de Medias Móviles Aplicado a Opciones
 
-# Framework de Medias Móviles Aplicado a Opciones
+
 
 ---
 

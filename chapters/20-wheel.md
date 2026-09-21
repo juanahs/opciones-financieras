@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 20"
+title: "Capítulo 20 — La estrategia Wheel"
 
 ---
 
-# Capítulo 20 — Capítulo 20
+# Capítulo 20 — La estrategia Wheel
 
-# La estrategia Wheel
+
 
 ---
 

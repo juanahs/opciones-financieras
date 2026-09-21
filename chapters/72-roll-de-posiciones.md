@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 72"
+title: "Capítulo 72 — Roll de Posiciones"
 
 ---
 
-# Capítulo 72 — Capítulo 72
+# Capítulo 72 — Roll de Posiciones
 
-# Roll de Posiciones
+
 
 ---
 

@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 248"
+title: "Capítulo 248 — Caso Práctico: ASML mediante Opciones"
 
 ---
 
-# Capítulo 248 — Capítulo 248
+# Capítulo 248 — Caso Práctico: ASML mediante Opciones
 
-# Caso Práctico: ASML mediante Opciones
+
 
 ---
 

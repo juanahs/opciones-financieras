@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 48"
+title: "Capítulo 48 — Checklist Profesional antes de Abrir una Operación"
 
 ---
 
-# Capítulo 48 — Capítulo 48
+# Capítulo 48 — Checklist Profesional antes de Abrir una Operación
 
-# Checklist Profesional antes de Abrir una Operación
+
 
 ---
 

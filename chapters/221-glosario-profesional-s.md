@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 221"
+title: "Capítulo 221 — Glosario Profesional (S)"
 
 ---
 
-# Capítulo 221 — Capítulo 221
+# Capítulo 221 — Glosario Profesional (S)
 
-# Glosario Profesional (S)
+
 
 ---
 

@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 152"
+title: "Capítulo 152 — Volatility Lab de Interactive Brokers"
 
 ---
 
-# Capítulo 152 — Capítulo 152
+# Capítulo 152 — Volatility Lab de Interactive Brokers
 
-# Volatility Lab de Interactive Brokers
+
 
 ---
 

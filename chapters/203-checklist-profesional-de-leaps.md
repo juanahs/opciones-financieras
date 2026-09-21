@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 203"
+title: "Capítulo 203 — Checklist Profesional para LEAPS"
 
 ---
 
-# Capítulo 203 — Capítulo 203
+# Capítulo 203 — Checklist Profesional para LEAPS
 
-# Checklist Profesional para LEAPS
+
 
 ---
 

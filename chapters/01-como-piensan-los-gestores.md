@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 1"
+title: "Capítulo 1 — Cómo piensan los gestores profesionales"
 
 ---
 
-# Capítulo 1 — Capítulo 1
+# Capítulo 1 — Cómo piensan los gestores profesionales
 
-# Cómo piensan los gestores profesionales
+
 
 ---
 

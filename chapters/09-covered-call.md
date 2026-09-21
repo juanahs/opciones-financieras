@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 9"
+title: "Capítulo 9 — Covered Call"
 
 ---
 
-# Capítulo 9 — Capítulo 9
+# Capítulo 9 — Covered Call
 
-# Covered Call
+
 
 ---
 

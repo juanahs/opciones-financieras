@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 167"
+title: "Capítulo 167 — Framework Wyckoff Aplicado a Opciones"
 
 ---
 
-# Capítulo 167 — Capítulo 167
+# Capítulo 167 — Framework Wyckoff Aplicado a Opciones
 
-# Framework Wyckoff Aplicado a Opciones
+
 
 ---
 

@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 144"
+title: "Capítulo 144 — Cómo Pensar como un Market Maker"
 
 ---
 
-# Capítulo 144 — Capítulo 144
+# Capítulo 144 — Cómo Pensar como un Market Maker
 
-# Cómo Pensar como un Market Maker
+
 
 ---
 

@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 97"
+title: "Capítulo 97 — Bull Call Spread Avanzado"
 
 ---
 
-# Capítulo 97 — Capítulo 97
+# Capítulo 97 — Bull Call Spread Avanzado
 
-# Bull Call Spread Avanzado
+
 
 ---
 

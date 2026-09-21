@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 169"
+title: "Capítulo 169 — Framework RSI Aplicado a Opciones"
 
 ---
 
-# Capítulo 169 — Capítulo 169
+# Capítulo 169 — Framework RSI Aplicado a Opciones
 
-# Framework RSI Aplicado a Opciones
+
 
 ---
 

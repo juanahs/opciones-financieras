@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 215"
+title: "Capítulo 215 — Glosario Profesional (F-G)"
 
 ---
 
-# Capítulo 215 — Capítulo 215
+# Capítulo 215 — Glosario Profesional (F-G)
 
-# Glosario Profesional (F-G)
+
 
 ---
 

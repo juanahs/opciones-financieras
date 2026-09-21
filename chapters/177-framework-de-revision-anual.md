@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 177"
+title: "Capítulo 177 — Framework de Revisión Anual"
 
 ---
 
-# Capítulo 177 — Capítulo 177
+# Capítulo 177 — Framework de Revisión Anual
 
-# Framework de Revisión Anual
+
 
 ---
 

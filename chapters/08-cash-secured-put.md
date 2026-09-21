@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 8"
+title: "Capítulo 8 — Cash Secured Put"
 
 ---
 
-# Capítulo 8 — Capítulo 8
+# Capítulo 8 — Cash Secured Put
 
-# Cash Secured Put
+
 
 ---
 

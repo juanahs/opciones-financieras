@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 77"
+title: "Capítulo 77 — Cómo Seleccionar el Subyacente Adecuado"
 
 ---
 
-# Capítulo 77 — Capítulo 77
+# Capítulo 77 — Cómo Seleccionar el Subyacente Adecuado
 
-# Cómo Seleccionar el Subyacente Adecuado
+
 
 ---
 

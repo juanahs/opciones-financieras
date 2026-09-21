@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 100"
+title: "Capítulo 100 — Diagonal Spread"
 
 ---
 
-# Capítulo 100 — Capítulo 100
+# Capítulo 100 — Diagonal Spread
 
-# Diagonal Spread
+
 
 ---
 

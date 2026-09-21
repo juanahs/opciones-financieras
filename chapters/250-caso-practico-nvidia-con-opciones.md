@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 250"
+title: "Capítulo 250 — Caso Práctico: NVIDIA"
 
 ---
 
-# Capítulo 250 — Capítulo 250
+# Capítulo 250 — Caso Práctico: NVIDIA
 
-# Caso Práctico: NVIDIA
+
 
 ---
 

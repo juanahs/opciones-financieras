@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 237"
+title: "Capítulo 237 — Fiscalidad e Interactive Brokers"
 
 ---
 
-# Capítulo 237 — Capítulo 237
+# Capítulo 237 — Fiscalidad e Interactive Brokers
 
-# Fiscalidad e Interactive Brokers
+
 
 ---
 

@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 243"
+title: "Capítulo 243 — Gestión del Riesgo a Nivel de Cartera"
 
 ---
 
-# Capítulo 243 — Capítulo 243
+# Capítulo 243 — Gestión del Riesgo a Nivel de Cartera
 
-# Gestión del Riesgo a Nivel de Cartera
+
 
 ---
 

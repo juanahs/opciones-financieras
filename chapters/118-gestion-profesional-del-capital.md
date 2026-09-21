@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 118"
+title: "Capítulo 118 — Gestión Profesional del Capital"
 
 ---
 
-# Capítulo 118 — Capítulo 118
+# Capítulo 118 — Gestión Profesional del Capital
 
-# Gestión Profesional del Capital
+
 
 ---
 

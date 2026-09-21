@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 131"
+title: "Capítulo 131 — Caso Práctico Completo: Microsoft (MSFT)"
 
 ---
 
-# Capítulo 131 — Capítulo 131
+# Capítulo 131 — Caso Práctico Completo: Microsoft (MSFT)
 
-# Caso Práctico Completo: Microsoft (MSFT)
+
 
 ---
 

@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 21"
+title: "Capítulo 21 — Iron Condor"
 
 ---
 
-# Capítulo 21 — Capítulo 21
+# Capítulo 21 — Iron Condor
 
-# Iron Condor
+
 
 ---
 

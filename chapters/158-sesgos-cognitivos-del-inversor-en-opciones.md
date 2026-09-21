@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 158"
+title: "Capítulo 158 — Sesgos Cognitivos del Inversor en Opciones"
 
 ---
 
-# Capítulo 158 — Capítulo 158
+# Capítulo 158 — Sesgos Cognitivos del Inversor en Opciones
 
-# Sesgos Cognitivos del Inversor en Opciones
+
 
 ---
 

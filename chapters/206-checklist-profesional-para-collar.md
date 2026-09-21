@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 206"
+title: "Capítulo 206 — Checklist Profesional para un Collar"
 
 ---
 
-# Capítulo 206 — Capítulo 206
+# Capítulo 206 — Checklist Profesional para un Collar
 
-# Checklist Profesional para un Collar
+
 
 ---
 

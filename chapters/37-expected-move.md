@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 37"
+title: "Capítulo 37 — Expected Move"
 
 ---
 
-# Capítulo 37 — Capítulo 37
+# Capítulo 37 — Expected Move
 
-# Expected Move
+
 
 ---
 

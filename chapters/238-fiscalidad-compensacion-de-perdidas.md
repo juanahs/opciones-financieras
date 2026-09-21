@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 238"
+title: "Capítulo 238 — Compensación de Ganancias y Pérdidas"
 
 ---
 
-# Capítulo 238 — Capítulo 238
+# Capítulo 238 — Compensación de Ganancias y Pérdidas
 
-# Compensación de Ganancias y Pérdidas
+
 
 ---
 

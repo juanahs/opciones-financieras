@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 222"
+title: "Capítulo 222 — Glosario Profesional (T)"
 
 ---
 
-# Capítulo 222 — Capítulo 222
+# Capítulo 222 — Glosario Profesional (T)
 
-# Glosario Profesional (T)
+
 
 ---
 

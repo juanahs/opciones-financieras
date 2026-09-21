@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 199"
+title: "Capítulo 199 — El Diario Profesional del Inversor en Opciones"
 
 ---
 
-# Capítulo 199 — Capítulo 199
+# Capítulo 199 — El Diario Profesional del Inversor en Opciones
 
-# El Diario Profesional del Inversor en Opciones
+
 
 ---
 

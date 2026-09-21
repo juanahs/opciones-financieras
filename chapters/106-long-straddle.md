@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 106"
+title: "Capítulo 106 — Long Straddle"
 
 ---
 
-# Capítulo 106 — Capítulo 106
+# Capítulo 106 — Long Straddle
 
-# Long Straddle
+
 
 ---
 

@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 196"
+title: "Capítulo 196 — Framework Completo para Analizar una Acción antes de Operar Opciones"
 
 ---
 
-# Capítulo 196 — Capítulo 196
+# Capítulo 196 — Framework Completo para Analizar una Acción antes de Operar Opciones
 
-# Framework Completo para Analizar una Acción antes de Operar Opciones
+
 
 ---
 

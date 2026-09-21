@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 6"
+title: "Capítulo 6 — Las Greeks"
 
 ---
 
-# Capítulo 6 — Capítulo 6
+# Capítulo 6 — Las Greeks
 
-# Las Greeks
+
 
 ---
 

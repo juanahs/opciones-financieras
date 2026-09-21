@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 91"
+title: "Capítulo 91 — LEAPS Avanzadas: Sustitución Inteligente de Acciones"
 
 ---
 
-# Capítulo 91 — Capítulo 91
+# Capítulo 91 — LEAPS Avanzadas: Sustitución Inteligente de Acciones
 
-# LEAPS Avanzadas: Sustitución Inteligente de Acciones
+
 
 ---
 

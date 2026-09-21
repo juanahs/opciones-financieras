@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 178"
+title: "Capítulo 178 — Framework de Mejora Continua"
 
 ---
 
-# Capítulo 178 — Capítulo 178
+# Capítulo 178 — Framework de Mejora Continua
 
-# Framework de Mejora Continua
+
 
 ---
 

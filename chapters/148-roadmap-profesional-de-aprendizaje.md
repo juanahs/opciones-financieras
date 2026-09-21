@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 148"
+title: "Capítulo 148 — Roadmap Profesional de Aprendizaje"
 
 ---
 
-# Capítulo 148 — Capítulo 148
+# Capítulo 148 — Roadmap Profesional de Aprendizaje
 
-# Roadmap Profesional de Aprendizaje
+
 
 # Introducción
 

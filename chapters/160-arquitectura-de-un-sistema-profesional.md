@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 160"
+title: "Capítulo 160 — Arquitectura de un Sistema Profesional de Inversión con Opciones"
 
 ---
 
-# Capítulo 160 — Capítulo 160
+# Capítulo 160 — Arquitectura de un Sistema Profesional de Inversión con Opciones
 
-# Arquitectura de un Sistema Profesional de Inversión con Opciones
+
 
 ---
 

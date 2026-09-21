@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 83"
+title: "Capítulo 83 — Checklist Universal Antes de Abrir una Operación"
 
 ---
 
-# Capítulo 83 — Capítulo 83
+# Capítulo 83 — Checklist Universal Antes de Abrir una Operación
 
-# Checklist Universal Antes de Abrir una Operación
+
 
 ---
 
