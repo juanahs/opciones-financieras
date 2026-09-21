@@ -1,3 +1,5 @@
+# Pin MkDocs to 1.x to avoid MkDocs 2.0 breaking changes (Material + plugins require MkDocs 1.x)
+mkdocs>=1.4,<2
 
 # MkDocs material theme
 mkdocs-material
