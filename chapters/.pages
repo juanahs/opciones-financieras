@@ -1,5 +1,7 @@
 title: "Manual de Opciones Financieras"
-pages:
+sort_type: natural
+order_by: filename
+nav:
   - "Introducción & Fundamentos":
     - 00-introduccion.md
     - 01-como-piensan-los-gestores.md

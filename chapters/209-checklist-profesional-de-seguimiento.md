@@ -3,7 +3,7 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Checklist Profesional para el Seguimiento de Posiciones"
+title: "Capítulo 209 — Checklist Profesional para el Seguimiento de Posiciones"
 
 ---
 

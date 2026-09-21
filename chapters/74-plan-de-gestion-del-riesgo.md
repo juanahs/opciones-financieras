@@ -3,7 +3,7 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Plan Profesional de Gestión del Riesgo"
+title: "Capítulo 74 — Plan Profesional de Gestión del Riesgo"
 
 ---
 

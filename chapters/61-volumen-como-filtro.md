@@ -3,7 +3,7 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "El Volumen Como Filtro para Operar Opciones"
+title: "Capítulo 61 — El Volumen como Filtro para Operar Opciones"
 
 ---
 

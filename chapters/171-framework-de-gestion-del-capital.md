@@ -3,7 +3,7 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Framework Profesional de Gestión del Capital"
+title: "Capítulo 171 — Framework Profesional de Gestión del Capital"
 
 ---
 

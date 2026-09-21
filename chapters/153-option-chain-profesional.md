@@ -3,7 +3,7 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Cómo Analizar una Option Chain Profesionalmente"
+title: "Capítulo 153 — Cómo Analizar una Option Chain Profesionalmente"
 
 ---
 

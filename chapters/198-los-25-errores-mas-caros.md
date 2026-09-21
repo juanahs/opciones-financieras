@@ -3,7 +3,7 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Los 25 Errores Más Caros al Operar Opciones"
+title: "Capítulo 198 — Los 25 Errores Más Caros al Operar Opciones"
 
 ---
 

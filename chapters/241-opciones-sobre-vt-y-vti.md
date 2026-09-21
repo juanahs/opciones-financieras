@@ -3,7 +3,7 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Opciones Sobre VT y VTI"
+title: "Capítulo 241 — Opciones sobre VT y VTI"
 
 ---
 

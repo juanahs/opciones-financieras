@@ -3,7 +3,7 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Matriz Profesional de Selección de Estrategias"
+title: "Capítulo 133 — Matriz Profesional de Selección de Estrategias"
 
 ---
 

@@ -3,7 +3,7 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "`184-estudio-de-caso-microsoft.md`"
+title: "Capítulo 184 — Archivo archivado — `184-estudio-de-caso-microsoft.md`"
 
 ---
 

@@ -3,7 +3,7 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Iron Condor Profesional"
+title: "Capítulo 101 — Iron Condor Profesional"
 
 ---
 

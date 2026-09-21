@@ -3,7 +3,7 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "`181-estudio-de-caso-apple.md`"
+title: "Capítulo 181 — Archivo archivado — `181-estudio-de-caso-apple.md`"
 
 ---
 
