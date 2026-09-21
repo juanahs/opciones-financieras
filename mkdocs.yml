@@ -28,7 +28,6 @@ theme:
 plugins:
   - awesome-pages
   - search
-  - prev-next
 
 markdown_extensions:
   - toc:
