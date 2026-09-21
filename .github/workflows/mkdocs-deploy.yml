@@ -44,6 +44,22 @@ jobs:
       - name: Build MkDocs site
         run: mkdocs build --clean
 
+      - name: Fix absolute asset paths for project pages
+        if: always()
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          # For project sites (OWNER.github.io/REPO/) MkDocs/Material emits
+          # asset links starting with '/' which point to the domain root.
+          # Insert a <base> tag in every generated HTML so absolute paths
+          # resolve under the repository subpath. This avoids rewriting files
+          # and works for JS/CSS/image assets.
+          REPO=$(echo "$GITHUB_REPOSITORY" | cut -d/ -f2)
+          BASE="/${REPO}/"
+          echo "Inserting <base href='${BASE}'> into HTML files"
+          # Insert the base tag right after the opening <head> in all HTML files
+          find site -type f -name '*.html' -print0 | xargs -0 -n1 sed -i "0,/<head>/s|<head>|<head>\n  <base href='${BASE}'>|"
+
       - name: Create root redirect index.html (no commit)
         env:
           GITHUB_REPOSITORY: ${{ github.repository }}
