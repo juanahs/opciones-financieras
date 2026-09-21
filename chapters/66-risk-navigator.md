@@ -1,4 +1,13 @@
-# Capítulo 66
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 66"
+
+---
+
+# Capítulo 66 — Capítulo 66
 
 # Risk Navigator de Interactive Brokers
 

@@ -1,4 +1,13 @@
-# Capítulo 78
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 78"
+
+---
+
+# Capítulo 78 — Capítulo 78
 
 # Eventos Corporativos y su Impacto en las Opciones
 

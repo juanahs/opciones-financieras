@@ -1,4 +1,13 @@
-# Capítulo 38
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 38"
+
+---
+
+# Capítulo 38 — Capítulo 38
 
 # Probability ITM, OTM y Probability of Profit
 

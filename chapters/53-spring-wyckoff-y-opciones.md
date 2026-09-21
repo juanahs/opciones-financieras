@@ -1,4 +1,13 @@
-# Capítulo 53
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 53"
+
+---
+
+# Capítulo 53 — Capítulo 53
 
 # Spring Wyckoff y Selección de Estrategias con Opciones
 

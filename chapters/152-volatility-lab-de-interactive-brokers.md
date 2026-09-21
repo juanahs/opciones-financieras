@@ -1,4 +1,13 @@
-# Capítulo 152
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 152"
+
+---
+
+# Capítulo 152 — Capítulo 152
 
 # Volatility Lab de Interactive Brokers
 

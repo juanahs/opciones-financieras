@@ -1,4 +1,13 @@
-# Capítulo 232
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 232"
+
+---
+
+# Capítulo 232 — Capítulo 232
 
 # Plan de Aprendizaje de 12 Meses
 

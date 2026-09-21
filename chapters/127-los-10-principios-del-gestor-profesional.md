@@ -1,4 +1,13 @@
-# Capítulo 127
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 127"
+
+---
+
+# Capítulo 127 — Capítulo 127
 
 # Los Diez Principios del Gestor Profesional
 

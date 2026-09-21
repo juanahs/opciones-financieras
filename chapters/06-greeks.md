@@ -1,4 +1,13 @@
-# Capítulo 6
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 6"
+
+---
+
+# Capítulo 6 — Capítulo 6
 
 # Las Greeks
 

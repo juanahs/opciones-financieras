@@ -1,4 +1,13 @@
-# Capítulo 197
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 197"
+
+---
+
+# Capítulo 197 — Capítulo 197
 
 # Matriz Profesional de Selección de Estrategias
 

@@ -1,4 +1,13 @@
-# Capítulo 172
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 172"
+
+---
+
+# Capítulo 172 — Capítulo 172
 
 # Framework Profesional de Gestión de la Liquidez
 

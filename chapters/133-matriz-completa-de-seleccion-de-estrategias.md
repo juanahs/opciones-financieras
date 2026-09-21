@@ -1,6 +1,13 @@
-# Capítulo 133
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Matriz Profesional de Selección de Estrategias"
 
-# Matriz Profesional de Selección de Estrategias
+---
+
+# Capítulo 133 — Matriz Profesional de Selección de Estrategias
 
 ---
 

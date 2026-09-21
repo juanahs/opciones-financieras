@@ -1,4 +1,13 @@
-# Capítulo 51
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 51"
+
+---
+
+# Capítulo 51 — Capítulo 51
 
 # Metodología Wyckoff aplicada a Opciones
 

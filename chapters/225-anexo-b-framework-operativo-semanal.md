@@ -1,4 +1,13 @@
-# Anexo B
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Anexo B"
+
+---
+
+# Capítulo 225 — Anexo B
 
 # Framework Operativo Semanal
 

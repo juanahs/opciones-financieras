@@ -1,4 +1,13 @@
-# Capítulo 122
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 122"
+
+---
+
+# Capítulo 122 — Capítulo 122
 
 # Framework Profesional para Seleccionar una Estrategia con Opciones
 

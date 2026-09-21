@@ -1,4 +1,13 @@
-# Capítulo 163
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 163"
+
+---
+
+# Capítulo 163 — Capítulo 163
 
 # Framework Profesional para Seleccionar Empresas antes de Operar Opciones
 

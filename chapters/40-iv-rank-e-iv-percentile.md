@@ -1,4 +1,13 @@
-# Capítulo 40
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 40"
+
+---
+
+# Capítulo 40 — Capítulo 40
 
 # IV Rank e IV Percentile
 

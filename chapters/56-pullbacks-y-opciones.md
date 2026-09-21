@@ -1,4 +1,13 @@
-# Capítulo 56
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 56"
+
+---
+
+# Capítulo 56 — Capítulo 56
 
 # Pullbacks y Estrategias con Opciones
 

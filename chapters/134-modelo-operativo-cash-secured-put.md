@@ -1,4 +1,13 @@
-# Capítulo 134
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 134"
+
+---
+
+# Capítulo 134 — Capítulo 134
 
 # Modelo Operativo Profesional para Cash Secured Put
 

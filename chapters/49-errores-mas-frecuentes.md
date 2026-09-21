@@ -1,6 +1,13 @@
-# Capítulo 49
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Los 25 Errores Más Frecuentes"
 
-# Los 25 Errores Más Frecuentes
+---
+
+# Capítulo 49 — Los 25 Errores Más Frecuentes
 
 ---
 

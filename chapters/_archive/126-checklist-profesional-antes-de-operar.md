@@ -1,6 +1,4 @@
-# Capítulo 126
-
-# Checklist Profesional Antes de Abrir una Operación
+# Capítulo 126 — Checklist Profesional Antes de Abrir una Operación
 
 ---
 

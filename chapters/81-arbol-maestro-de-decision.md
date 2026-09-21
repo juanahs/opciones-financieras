@@ -1,4 +1,13 @@
-# Capítulo 81
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 81"
+
+---
+
+# Capítulo 81 — Capítulo 81
 
 # Árbol Maestro de Decisión
 

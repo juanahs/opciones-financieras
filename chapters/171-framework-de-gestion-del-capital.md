@@ -1,6 +1,13 @@
-# Capítulo 171
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Framework Profesional de Gestión del Capital"
 
-# Framework Profesional de Gestión del Capital
+---
+
+# Capítulo 171 — Framework Profesional de Gestión del Capital
 
 ---
 

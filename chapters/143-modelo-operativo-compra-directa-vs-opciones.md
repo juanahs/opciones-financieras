@@ -1,4 +1,13 @@
-# Capítulo 143
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 143"
+
+---
+
+# Capítulo 143 — Capítulo 143
 
 # Compra Directa vs Opciones: Un Modelo de Decisión Profesional
 

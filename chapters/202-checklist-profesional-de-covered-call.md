@@ -1,4 +1,13 @@
-# Capítulo 202
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 202"
+
+---
+
+# Capítulo 202 — Capítulo 202
 
 # Checklist Profesional para Covered Calls
 

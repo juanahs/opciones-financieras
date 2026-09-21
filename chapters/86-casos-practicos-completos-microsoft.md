@@ -1,4 +1,13 @@
-# Capítulo 86
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 86"
+
+---
+
+# Capítulo 86 — Capítulo 86
 
 # Caso Práctico Completo: Microsoft
 

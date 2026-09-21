@@ -1,4 +1,13 @@
-# Capítulo 59
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 59"
+
+---
+
+# Capítulo 59 — Capítulo 59
 
 # Medias Móviles y Selección de Estrategias con Opciones
 

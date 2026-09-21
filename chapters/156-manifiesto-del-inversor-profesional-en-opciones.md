@@ -1,4 +1,13 @@
-# Capítulo 156
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 156"
+
+---
+
+# Capítulo 156 — Capítulo 156
 
 # Manifiesto del Inversor Profesional en Opciones
 

@@ -1,4 +1,13 @@
-# Capítulo 130
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 130"
+
+---
+
+# Capítulo 130 — Capítulo 130
 
 # Caso Práctico Completo: NVIDIA
 

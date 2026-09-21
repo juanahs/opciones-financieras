@@ -1,4 +1,13 @@
-# Capítulo 116
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 116"
+
+---
+
+# Capítulo 116 — Capítulo 116
 
 # La Volatilidad como un Activo
 

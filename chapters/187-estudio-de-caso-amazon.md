@@ -1,6 +1,13 @@
-# Capítulo 187
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Caso de Estudio: Amazon"
 
-# Caso de Estudio: Amazon
+---
+
+# Capítulo 187 — Caso de Estudio: Amazon
 
 ---
 

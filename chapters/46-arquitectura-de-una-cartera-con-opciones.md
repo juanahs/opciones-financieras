@@ -1,4 +1,13 @@
-# Capítulo 46
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 46"
+
+---
+
+# Capítulo 46 — Capítulo 46
 
 # Arquitectura de una Cartera con Opciones
 

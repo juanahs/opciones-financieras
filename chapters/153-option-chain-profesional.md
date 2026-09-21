@@ -1,6 +1,13 @@
-# Capítulo 153
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Cómo Analizar una Option Chain Profesionalmente"
 
-# Cómo Analizar una Option Chain Profesionalmente
+---
+
+# Capítulo 153 — Cómo Analizar una Option Chain Profesionalmente
 
 ---
 

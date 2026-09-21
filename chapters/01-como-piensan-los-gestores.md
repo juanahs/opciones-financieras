@@ -1,4 +1,13 @@
-# Capítulo 1
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 1"
+
+---
+
+# Capítulo 1 — Capítulo 1
 
 # Cómo piensan los gestores profesionales
 

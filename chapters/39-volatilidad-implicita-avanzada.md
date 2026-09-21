@@ -1,4 +1,13 @@
-# Capítulo 39
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 39"
+
+---
+
+# Capítulo 39 — Capítulo 39
 
 # Volatilidad Implícita Avanzada
 

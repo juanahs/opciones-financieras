@@ -1,4 +1,13 @@
-# Capítulo 4
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 4"
+
+---
+
+# Capítulo 4 — Capítulo 4
 
 # Opciones Call
 

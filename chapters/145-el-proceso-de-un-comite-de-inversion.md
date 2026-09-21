@@ -1,6 +1,13 @@
-# Capítulo 145
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "El Proceso de un Comité de Inversión Aplicado a Opciones"
 
-# El Proceso de un Comité de Inversión Aplicado a Opciones
+---
+
+# Capítulo 145 — El Proceso de un Comité de Inversión Aplicado a Opciones
 
 ---
 

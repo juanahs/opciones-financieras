@@ -1,4 +1,13 @@
-# Capítulo 136
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 136"
+
+---
+
+# Capítulo 136 — Capítulo 136
 
 # Modelo Operativo Profesional para LEAPS
 

@@ -1,6 +1,13 @@
-# Capítulo 209
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Checklist Profesional para el Seguimiento de Posiciones"
 
-# Checklist Profesional para el Seguimiento de Posiciones
+---
+
+# Capítulo 209 — Checklist Profesional para el Seguimiento de Posiciones
 
 ---
 

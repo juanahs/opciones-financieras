@@ -1,4 +1,13 @@
-# Capítulo 155
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 155"
+
+---
+
+# Capítulo 155 — Capítulo 155
 
 # Framework Profesional de Toma de Decisiones
 

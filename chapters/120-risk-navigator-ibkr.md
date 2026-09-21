@@ -1,4 +1,13 @@
-# Capítulo 120
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 120"
+
+---
+
+# Capítulo 120 — Capítulo 120
 
 # Risk Navigator de Interactive Brokers
 

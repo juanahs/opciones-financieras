@@ -1,4 +1,13 @@
-# Capítulo 85
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 85"
+
+---
+
+# Capítulo 85 — Capítulo 85
 
 # Caso Práctico Completo: ASML
 

@@ -1,4 +1,13 @@
-# Capítulo 113
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 113"
+
+---
+
+# Capítulo 113 — Capítulo 113
 
 # Reverse Conversion
 

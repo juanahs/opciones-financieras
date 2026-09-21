@@ -1,4 +1,13 @@
-# Capítulo 142
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 142"
+
+---
+
+# Capítulo 142 — Capítulo 142
 
 # Cuándo NO Utilizar Opciones
 

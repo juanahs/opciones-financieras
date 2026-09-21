@@ -1,4 +1,13 @@
-# Capítulo 114
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 114"
+
+---
+
+# Capítulo 114 — Capítulo 114
 
 # Box Spread
 

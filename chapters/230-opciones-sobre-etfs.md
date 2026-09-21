@@ -1,6 +1,13 @@
-# Capítulo 230
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Opciones Sobre ETFs"
 
-# Opciones sobre ETFs
+---
+
+# Capítulo 230 — Opciones sobre ETFs
 
 ---
 

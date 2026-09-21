@@ -1,4 +1,13 @@
-# Capítulo 159
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 159"
+
+---
+
+# Capítulo 159 — Capítulo 159
 
 # Checklist Definitiva Antes de Abrir una Posición
 

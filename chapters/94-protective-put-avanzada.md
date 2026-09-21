@@ -1,4 +1,13 @@
-# Capítulo 94
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 94"
+
+---
+
+# Capítulo 94 — Capítulo 94
 
 # Protective Put Avanzada: Seguro para una Cartera de Acciones
 

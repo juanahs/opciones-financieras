@@ -1,4 +1,13 @@
-# Capítulo 150
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 150"
+
+---
+
+# Capítulo 150 — Capítulo 150
 
 # Control del Riesgo a Nivel de Cartera
 

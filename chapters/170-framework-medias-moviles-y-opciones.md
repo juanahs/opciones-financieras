@@ -1,4 +1,13 @@
-# Capítulo 170
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 170"
+
+---
+
+# Capítulo 170 — Capítulo 170
 
 # Framework de Medias Móviles Aplicado a Opciones
 

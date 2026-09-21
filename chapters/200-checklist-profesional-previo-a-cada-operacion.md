@@ -1,4 +1,13 @@
-# Capítulo 200
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 200"
+
+---
+
+# Capítulo 200 — Capítulo 200
 
 # Checklist Profesional Antes de Abrir una Operación
 

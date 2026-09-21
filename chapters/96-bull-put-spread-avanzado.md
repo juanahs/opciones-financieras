@@ -1,4 +1,13 @@
-# Capítulo 96
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 96"
+
+---
+
+# Capítulo 96 — Capítulo 96
 
 # Bull Put Spread Avanzado
 

@@ -1,4 +1,13 @@
-# Capítulo 28
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 28"
+
+---
+
+# Capítulo 28 — Capítulo 28
 
 # Cómo seleccionar el vencimiento
 

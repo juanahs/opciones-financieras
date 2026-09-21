@@ -1,4 +1,13 @@
-# Capítulo 19
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 19"
+
+---
+
+# Capítulo 19 — Capítulo 19
 
 # Collar
 

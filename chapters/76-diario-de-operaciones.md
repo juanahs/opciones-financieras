@@ -1,4 +1,13 @@
-# Capítulo 76
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 76"
+
+---
+
+# Capítulo 76 — Capítulo 76
 
 # Diario Profesional de Operaciones
 

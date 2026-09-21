@@ -1,4 +1,13 @@
-# Capítulo 115
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 115"
+
+---
+
+# Capítulo 115 — Capítulo 115
 
 # Arquitectura de las Estrategias con Opciones
 

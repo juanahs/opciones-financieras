@@ -1,4 +1,13 @@
-# Capítulo 162
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 162"
+
+---
+
+# Capítulo 162 — Capítulo 162
 
 # Las Cinco Preguntas que Debes Responder Antes de Cada Operación
 

@@ -1,4 +1,13 @@
-# Capítulo 88
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 88"
+
+---
+
+# Capítulo 88 — Capítulo 88
 
 # Matriz Maestra para Seleccionar Estrategias
 

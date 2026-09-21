@@ -1,4 +1,13 @@
-# Capítulo 140
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 140"
+
+---
+
+# Capítulo 140 — Capítulo 140
 
 # Modelo Operativo Profesional para Collar
 

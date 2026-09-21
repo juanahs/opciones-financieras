@@ -1,4 +1,13 @@
-# Anexo A
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Anexo a"
+
+---
+
+# Capítulo 224 — Anexo A
 
 # Framework Operativo Diario
 

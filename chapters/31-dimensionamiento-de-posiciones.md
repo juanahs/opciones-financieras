@@ -1,4 +1,13 @@
-# Capítulo 31
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 31"
+
+---
+
+# Capítulo 31 — Capítulo 31
 
 # Dimensionamiento de Posiciones
 

@@ -1,4 +1,13 @@
-# Capítulo 207
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 207"
+
+---
+
+# Capítulo 207 — Capítulo 207
 
 # Checklist Profesional para Realizar un Roll
 

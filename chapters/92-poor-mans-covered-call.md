@@ -1,4 +1,13 @@
-# Capítulo 92
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 92"
+
+---
+
+# Capítulo 92 — Capítulo 92
 
 # Poor Man's Covered Call (PMCC)
 

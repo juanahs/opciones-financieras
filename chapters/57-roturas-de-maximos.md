@@ -1,4 +1,13 @@
-# Capítulo 57
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 57"
+
+---
+
+# Capítulo 57 — Capítulo 57
 
 # Roturas de Máximos y Opciones
 

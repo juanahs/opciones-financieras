@@ -1,4 +1,13 @@
-# Capítulo 216
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 216"
+
+---
+
+# Capítulo 216 — Capítulo 216
 
 # Glosario Profesional (H-I-J)
 

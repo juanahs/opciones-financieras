@@ -1,4 +1,13 @@
-# Capítulo 75
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 75"
+
+---
+
+# Capítulo 75 — Capítulo 75
 
 # Construcción de una Watchlist para Operar Opciones
 

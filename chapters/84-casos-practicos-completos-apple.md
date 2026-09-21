@@ -1,4 +1,13 @@
-# Capítulo 84
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 84"
+
+---
+
+# Capítulo 84 — Capítulo 84
 
 # Caso Práctico Completo: Apple
 

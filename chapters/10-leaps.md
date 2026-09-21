@@ -1,4 +1,13 @@
-# Capítulo 10
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 10"
+
+---
+
+# Capítulo 10 — Capítulo 10
 
 # LEAPS
 

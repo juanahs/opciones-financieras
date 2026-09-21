@@ -1,4 +1,13 @@
-# Capítulo 73
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 73"
+
+---
+
+# Capítulo 73 — Capítulo 73
 
 # Gestión Profesional de Posiciones
 

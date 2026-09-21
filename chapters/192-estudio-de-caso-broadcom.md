@@ -1,4 +1,13 @@
-# Capítulo 192
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 192"
+
+---
+
+# Capítulo 192 — Capítulo 192
 
 # Caso de Estudio: Broadcom
 

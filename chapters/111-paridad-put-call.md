@@ -1,4 +1,13 @@
-# Capítulo 111
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 111"
+
+---
+
+# Capítulo 111 — Capítulo 111
 
 # Paridad Put-Call
 

@@ -1,4 +1,13 @@
-# Capítulo 174
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 174"
+
+---
+
+# Capítulo 174 — Capítulo 174
 
 # Framework Profesional para Decidir un Roll
 

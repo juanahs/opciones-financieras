@@ -1,4 +1,13 @@
-# Capítulo 72
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 72"
+
+---
+
+# Capítulo 72 — Capítulo 72
 
 # Roll de Posiciones
 

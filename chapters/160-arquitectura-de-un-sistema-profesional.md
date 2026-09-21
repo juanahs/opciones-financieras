@@ -1,4 +1,13 @@
-# Capítulo 160
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 160"
+
+---
+
+# Capítulo 160 — Capítulo 160
 
 # Arquitectura de un Sistema Profesional de Inversión con Opciones
 

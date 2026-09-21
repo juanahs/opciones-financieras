@@ -1,4 +1,13 @@
-# Capítulo 34
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 34"
+
+---
+
+# Capítulo 34 — Capítulo 34
 
 # Pin Risk
 

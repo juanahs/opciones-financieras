@@ -1,4 +1,13 @@
-# Capítulo 144
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 144"
+
+---
+
+# Capítulo 144 — Capítulo 144
 
 # Cómo Pensar como un Market Maker
 

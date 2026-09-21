@@ -1,4 +1,13 @@
-# Capítulo 221
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 221"
+
+---
+
+# Capítulo 221 — Capítulo 221
 
 # Glosario Profesional (S)
 

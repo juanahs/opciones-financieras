@@ -1,6 +1,13 @@
-# Capítulo 190
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Caso de Estudio: Berkshire Hathaway"
 
-# Caso de Estudio: Berkshire Hathaway
+---
+
+# Capítulo 190 — Caso de Estudio: Berkshire Hathaway
 
 ---
 

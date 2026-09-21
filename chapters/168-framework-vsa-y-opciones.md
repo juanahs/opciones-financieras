@@ -1,4 +1,13 @@
-# Capítulo 168
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 168"
+
+---
+
+# Capítulo 168 — Capítulo 168
 
 # Framework VSA Aplicado a Opciones
 

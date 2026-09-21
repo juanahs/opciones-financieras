@@ -1,4 +1,13 @@
-# Capítulo 118
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 118"
+
+---
+
+# Capítulo 118 — Capítulo 118
 
 # Gestión Profesional del Capital
 

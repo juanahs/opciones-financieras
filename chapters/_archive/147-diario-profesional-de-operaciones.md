@@ -1,4 +1,4 @@
-# Capítulo 147
+# Capítulo 147 — Capítulo 147
 
 # Cómo Construir un Diario Profesional de Operaciones
 

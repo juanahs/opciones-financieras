@@ -1,4 +1,13 @@
-# Capítulo 5
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 5"
+
+---
+
+# Capítulo 5 — Capítulo 5
 
 # Opciones Put
 

@@ -1,6 +1,13 @@
-# Capítulo 63
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Selección del Vencimiento"
 
-# Selección del Vencimiento
+---
+
+# Capítulo 63 — Selección del Vencimiento
 
 ---
 

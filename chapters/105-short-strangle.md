@@ -1,4 +1,13 @@
-# Capítulo 105
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 105"
+
+---
+
+# Capítulo 105 — Capítulo 105
 
 # Short Strangle
 

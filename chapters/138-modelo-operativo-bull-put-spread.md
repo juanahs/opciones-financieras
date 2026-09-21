@@ -1,4 +1,13 @@
-# Capítulo 138
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 138"
+
+---
+
+# Capítulo 138 — Capítulo 138
 
 # Modelo Operativo Profesional para Bull Put Spread
 

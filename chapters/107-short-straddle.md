@@ -1,4 +1,13 @@
-# Capítulo 107
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 107"
+
+---
+
+# Capítulo 107 — Capítulo 107
 
 # Short Straddle
 

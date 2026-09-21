@@ -1,4 +1,13 @@
-# Capítulo 98
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 98"
+
+---
+
+# Capítulo 98 — Capítulo 98
 
 # Bear Put Spread Avanzado
 

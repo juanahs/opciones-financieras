@@ -1,4 +1,13 @@
-# Capítulo 102
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 102"
+
+---
+
+# Capítulo 102 — Capítulo 102
 
 # Iron Butterfly Profesional
 

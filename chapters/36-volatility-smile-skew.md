@@ -1,4 +1,13 @@
-# Capítulo 36
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 36"
+
+---
+
+# Capítulo 36 — Capítulo 36
 
 # Smile y Skew de Volatilidad
 

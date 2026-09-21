@@ -1,4 +1,13 @@
-# Capítulo 201
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 201"
+
+---
+
+# Capítulo 201 — Capítulo 201
 
 # Checklist Profesional para una Cash Secured Put
 

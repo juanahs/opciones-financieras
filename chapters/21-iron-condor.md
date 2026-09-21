@@ -1,4 +1,13 @@
-# Capítulo 21
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 21"
+
+---
+
+# Capítulo 21 — Capítulo 21
 
 # Iron Condor
 

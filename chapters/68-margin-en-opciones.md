@@ -1,4 +1,13 @@
-# Capítulo 68
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 68"
+
+---
+
+# Capítulo 68 — Capítulo 68
 
 # Margin en Opciones: Cómo Utilizar el Apalancamiento sin Comprometer la Cartera
 

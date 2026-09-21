@@ -1,4 +1,13 @@
-# Capítulo 219
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 219"
+
+---
+
+# Capítulo 219 — Capítulo 219
 
 # Glosario Profesional (O-P)
 

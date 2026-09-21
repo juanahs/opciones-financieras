@@ -1,6 +1,13 @@
-# Capítulo 101
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Iron Condor Profesional"
 
-# Iron Condor Profesional
+---
+
+# Capítulo 101 — Iron Condor Profesional
 
 ---
 

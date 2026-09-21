@@ -1,4 +1,4 @@
-# Capítulo 146
+# Capítulo 146 — Capítulo 146
 
 # Psicología del Operador de Opciones
 

@@ -1,4 +1,13 @@
-# Capítulo 203
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 203"
+
+---
+
+# Capítulo 203 — Capítulo 203
 
 # Checklist Profesional para LEAPS
 

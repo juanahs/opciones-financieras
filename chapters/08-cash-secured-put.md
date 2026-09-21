@@ -1,4 +1,13 @@
-# Capítulo 8
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 8"
+
+---
+
+# Capítulo 8 — Capítulo 8
 
 # Cash Secured Put
 

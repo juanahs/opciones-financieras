@@ -1,4 +1,13 @@
-# Capítulo 82
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 82"
+
+---
+
+# Capítulo 82 — Capítulo 82
 
 # Los 50 Errores Más Frecuentes al Operar Opciones
 

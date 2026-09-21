@@ -1,4 +1,13 @@
-# Capítulo 41
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 41"
+
+---
+
+# Capítulo 41 — Capítulo 41
 
 # Vega en la práctica
 

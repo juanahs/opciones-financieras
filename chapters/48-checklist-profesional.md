@@ -1,4 +1,13 @@
-# Capítulo 48
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 48"
+
+---
+
+# Capítulo 48 — Capítulo 48
 
 # Checklist Profesional antes de Abrir una Operación
 

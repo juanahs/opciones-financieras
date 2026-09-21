@@ -1,4 +1,13 @@
-# Capítulo 189
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 189"
+
+---
+
+# Capítulo 189 — Capítulo 189
 
 # Caso de Estudio: TSMC
 

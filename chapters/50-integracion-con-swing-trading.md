@@ -1,4 +1,13 @@
-# Capítulo 50
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 50"
+
+---
+
+# Capítulo 50 — Capítulo 50
 
 # Integración de las Opciones con Swing Trading
 

@@ -1,4 +1,13 @@
-# Capítulo 191
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 191"
+
+---
+
+# Capítulo 191 — Capítulo 191
 
 # Caso de Estudio: AMD
 

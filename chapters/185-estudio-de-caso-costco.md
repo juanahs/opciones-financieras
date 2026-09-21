@@ -1,4 +1,13 @@
-# Capítulo 185
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 185"
+
+---
+
+# Capítulo 185 — Capítulo 185
 
 # Caso de Estudio: Costco
 

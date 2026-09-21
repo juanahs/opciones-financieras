@@ -1,4 +1,13 @@
-# Capítulo 97
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 97"
+
+---
+
+# Capítulo 97 — Capítulo 97
 
 # Bull Call Spread Avanzado
 

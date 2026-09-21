@@ -1,4 +1,13 @@
-# Anexo C
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Anexo C"
+
+---
+
+# Capítulo 226 — Anexo C
 
 # Framework Operativo Mensual
 

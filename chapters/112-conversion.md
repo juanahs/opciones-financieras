@@ -1,4 +1,13 @@
-# Capítulo 112
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 112"
+
+---
+
+# Capítulo 112 — Capítulo 112
 
 # Conversion
 

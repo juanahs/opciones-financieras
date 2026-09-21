@@ -1,4 +1,13 @@
-# Capítulo 2
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 2"
+
+---
+
+# Capítulo 2 — Capítulo 2
 
 # Fundamentos de las Opciones Financieras
 

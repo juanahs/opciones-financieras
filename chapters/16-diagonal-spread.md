@@ -1,4 +1,13 @@
-# Capítulo 16
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 16"
+
+---
+
+# Capítulo 16 — Capítulo 16
 
 # Diagonal Spread
 

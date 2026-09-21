@@ -1,4 +1,13 @@
-# Capítulo 161
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 161"
+
+---
+
+# Capítulo 161 — Capítulo 161
 
 # De la Teoría a la Práctica
 

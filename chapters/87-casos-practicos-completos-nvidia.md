@@ -1,4 +1,13 @@
-# Capítulo 87
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 87"
+
+---
+
+# Capítulo 87 — Capítulo 87
 
 # Caso Práctico Completo: NVIDIA
 

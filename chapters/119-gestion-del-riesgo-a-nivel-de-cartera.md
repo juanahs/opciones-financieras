@@ -1,4 +1,13 @@
-# Capítulo 119
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 119"
+
+---
+
+# Capítulo 119 — Capítulo 119
 
 # Gestión del Riesgo a Nivel de Cartera
 

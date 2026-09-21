@@ -1,4 +1,13 @@
-# Capítulo 154
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 154"
+
+---
+
+# Capítulo 154 — Capítulo 154
 
 # Las Diez Reglas de Oro del Inversor en Opciones
 

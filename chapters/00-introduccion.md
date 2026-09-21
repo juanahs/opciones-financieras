@@ -1,4 +1,13 @@
-# Capítulo 0
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 0"
+
+---
+
+# Capítulo 0 — Capítulo 0
 
 # Introducción a las Opciones Financieras para Inversores en Acciones
 

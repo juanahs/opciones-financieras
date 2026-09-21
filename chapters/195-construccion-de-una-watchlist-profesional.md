@@ -1,4 +1,13 @@
-# Capítulo 195
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 195"
+
+---
+
+# Capítulo 195 — Capítulo 195
 
 # Construcción de una Watchlist Profesional para Opciones
 

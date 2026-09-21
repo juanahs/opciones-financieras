@@ -1,4 +1,13 @@
-# Capítulo 95
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 95"
+
+---
+
+# Capítulo 95 — Capítulo 95
 
 # Collar: Protección Financiada
 

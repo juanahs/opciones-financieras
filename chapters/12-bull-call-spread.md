@@ -1,4 +1,13 @@
-# Capítulo 12
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 12"
+
+---
+
+# Capítulo 12 — Capítulo 12
 
 # Bull Call Spread
 

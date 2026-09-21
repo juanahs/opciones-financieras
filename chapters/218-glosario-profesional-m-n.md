@@ -1,4 +1,13 @@
-# Capítulo 218
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 218"
+
+---
+
+# Capítulo 218 — Capítulo 218
 
 # Glosario Profesional (M-N)
 

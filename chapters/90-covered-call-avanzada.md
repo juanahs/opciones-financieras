@@ -1,4 +1,13 @@
-# Capítulo 90
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 90"
+
+---
+
+# Capítulo 90 — Capítulo 90
 
 # Covered Call Avanzada
 

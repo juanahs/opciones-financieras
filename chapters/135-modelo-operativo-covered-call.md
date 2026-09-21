@@ -1,6 +1,13 @@
-# Capítulo 135
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Modelo Operativo Profesional para Covered Call"
 
-# Modelo Operativo Profesional para Covered Call
+---
+
+# Capítulo 135 — Modelo Operativo Profesional para Covered Call
 
 ---
 

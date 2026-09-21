@@ -1,4 +1,13 @@
-# Capítulo 80
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 80"
+
+---
+
+# Capítulo 80 — Capítulo 80
 
 # Proceso Completo de Análisis Antes de Operar Opciones
 

@@ -1,4 +1,13 @@
-# Capítulo 14
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 14"
+
+---
+
+# Capítulo 14 — Capítulo 14
 
 # Bear Put Spread
 

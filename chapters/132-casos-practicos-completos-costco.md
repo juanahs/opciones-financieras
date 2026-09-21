@@ -1,4 +1,13 @@
-# Capítulo 132
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 132"
+
+---
+
+# Capítulo 132 — Capítulo 132
 
 # Caso Práctico Completo: Costco (COST)
 

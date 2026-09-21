@@ -1,4 +1,13 @@
-# Capítulo 30
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 30"
+
+---
+
+# Capítulo 30 — Capítulo 30
 
 # Gestión del Riesgo
 

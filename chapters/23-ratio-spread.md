@@ -1,4 +1,13 @@
-# Capítulo 23
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 23"
+
+---
+
+# Capítulo 23 — Capítulo 23
 
 # Ratio Spread
 

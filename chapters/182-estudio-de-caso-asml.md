@@ -1,4 +1,13 @@
-# Capítulo 182
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 182"
+
+---
+
+# Capítulo 182 — Capítulo 182
 
 # Caso de Estudio: ASML
 

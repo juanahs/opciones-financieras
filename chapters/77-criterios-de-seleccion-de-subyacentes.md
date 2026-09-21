@@ -1,4 +1,13 @@
-# Capítulo 77
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 77"
+
+---
+
+# Capítulo 77 — Capítulo 77
 
 # Cómo Seleccionar el Subyacente Adecuado
 

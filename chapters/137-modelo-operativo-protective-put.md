@@ -1,4 +1,13 @@
-# Capítulo 137
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 137"
+
+---
+
+# Capítulo 137 — Capítulo 137
 
 # Modelo Operativo Profesional para Protective Put
 

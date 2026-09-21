@@ -1,4 +1,13 @@
-# Capítulo 223
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 223"
+
+---
+
+# Capítulo 223 — Capítulo 223
 
 # Glosario Profesional (U-V-W-X-Y-Z)
 

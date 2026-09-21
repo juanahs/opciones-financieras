@@ -1,4 +1,13 @@
-# Capítulo 100
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 100"
+
+---
+
+# Capítulo 100 — Capítulo 100
 
 # Diagonal Spread
 

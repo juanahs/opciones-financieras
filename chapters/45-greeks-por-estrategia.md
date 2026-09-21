@@ -1,4 +1,13 @@
-# Capítulo 45
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 45"
+
+---
+
+# Capítulo 45 — Capítulo 45
 
 # Perfil de Greeks por Estrategia
 

@@ -1,4 +1,13 @@
-# Capítulo 158
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 158"
+
+---
+
+# Capítulo 158 — Capítulo 158
 
 # Sesgos Cognitivos del Inversor en Opciones
 

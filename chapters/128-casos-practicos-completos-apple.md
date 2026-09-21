@@ -1,4 +1,13 @@
-# Capítulo 128
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 128"
+
+---
+
+# Capítulo 128 — Capítulo 128
 
 # Caso Práctico Completo: Apple (AAPL)
 

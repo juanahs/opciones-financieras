@@ -1,4 +1,13 @@
-# Capítulo 24
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 24"
+
+---
+
+# Capítulo 24 — Capítulo 24
 
 # Backspread
 

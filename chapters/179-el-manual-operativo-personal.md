@@ -1,4 +1,13 @@
-# Capítulo 179
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 179"
+
+---
+
+# Capítulo 179 — Capítulo 179
 
 # Cómo Construir tu Manual Operativo Personal
 

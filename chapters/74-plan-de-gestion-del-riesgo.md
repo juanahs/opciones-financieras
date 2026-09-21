@@ -1,6 +1,13 @@
-# Capítulo 74
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Plan Profesional de Gestión del Riesgo"
 
-# Plan Profesional de Gestión del Riesgo
+---
+
+# Capítulo 74 — Plan Profesional de Gestión del Riesgo
 
 ---
 

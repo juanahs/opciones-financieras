@@ -1,4 +1,13 @@
-# Capítulo 9
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 9"
+
+---
+
+# Capítulo 9 — Capítulo 9
 
 # Covered Call
 

@@ -1,4 +1,13 @@
-# Capítulo 60
+---
+description: ""
+date: 2026-09-21
+tags: []
+draft: false
+title: "Capítulo 60"
+
+---
+
+# Capítulo 60 — Capítulo 60
 
 # Soportes, Resistencias y Selección de Strikes
 
