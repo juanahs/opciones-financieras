@@ -18,7 +18,7 @@ Inversores con conocimientos básicos/intermedios de mercados y estructuras téc
 
 ## Cómo usar este manual
 
-- Abre `index.html` en el directorio raíz para acceder al índice estático ordenado por capítulo.
+- Abre el sitio publicado en <https://juanahs.github.io/opciones-financieras/> para navegar por el manual.
 - Leer en orden recomendado: Introducción → Fundamentos → Estrategias → Modelos Profesionales → Checklists y Anexos.
 - Buscar estudios de caso en la sección profesional para ver ejemplos aplicados.
 
@@ -46,7 +46,7 @@ Inversores con conocimientos básicos/intermedios de mercados y estructuras téc
 
 ## Mantenimiento
 
-- Para regenerar el índice estático después de editar o añadir capítulos: `python3 scripts/generate_index.py` (ejecutar desde `opciones-financieras-main/`).
+- Para validar cambios localmente: `python3 -m pip install -r requirements.txt` y `python3 -m mkdocs build --clean --strict`.
 
 ## Aviso legal
 
