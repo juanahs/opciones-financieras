@@ -1,0 +1,3 @@
+mkdocs-material
+mkdocs-prev-next-plugin
+mkdocs-awesome-pages-plugin
