@@ -20,7 +20,7 @@ Objetivos cubiertos
 
 Archivos relevantes
 - `mkdocs.yml` (generado automáticamente por `scripts/generate_mkdocs_nav.py`)
-- `requirements.txt` (dependencias: mkdocs-material, prev-next)
+- `requirements.txt` (dependencias: mkdocs-material, mkdocs-awesome-pages-plugin). Nota: el plugin `mkdocs-prev-next-plugin` no se instala por defecto en CI; ver sección "Opciones" más abajo para restaurarlo.
 - `scripts/generate_mkdocs_nav.py` (genera `nav:` con títulos legibles)
 - `scripts/add_frontmatter_titles.py` (añade `title:` front-matter a MD que no lo tengan)
 - `.github/workflows/mkdocs-deploy.yml` (CI que construye y publica en gh-pages)
@@ -188,7 +188,7 @@ Preguntas frecuentes
 - ¿Puedo personalizar la apariencia? Sí: Material for MkDocs soporta muchas opciones
   (logo, paleta, tipografías). Edítalas en `mkdocs.yml` (o extiende `generate_mkdocs_nav.py`).
 - ¿Puedo añadir redirecciones internas? Sí: utiliza `mkdocs-redirects` plugin si necesitas mantener URLs antiguas.
-- ¿Se generan enlaces prev/next automáticamente? Sí, usamos `mkdocs-prev-next-plugin` y el tema Material muestra enlaces prev/next en el pie de página del contenido.
+-- ¿Se generan enlaces prev/next automáticamente? Actualmente NO: `mkdocs-prev-next-plugin` no está instalado por defecto en CI para evitar fallos de instalación. Si quieres restablecer prev/next, añade el plugin a `requirements.txt` apuntando a una release estable o vendoriza el plugin en el repositorio; contáctame y lo restauro.
 
 Soporte adicional
 -----------------
