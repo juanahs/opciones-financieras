@@ -4,6 +4,8 @@ mkdocs-material
 
 # awesome-pages plugin from PyPI
 mkdocs-awesome-pages-plugin
-# install prev-next plugin from GitHub archive to avoid git clone auth issues in CI
-https://github.com/timvink/mkdocs-prev-next-plugin/archive/refs/heads/master.zip#egg=mkdocs-prev-next-plugin
 
+# NOTE: mkdocs-prev-next-plugin was removed from requirements because the
+# upstream source could not be reliably fetched in CI. If you want prev/next
+# links, either add a compatible plugin here (pin to a released wheel or a
+# GitHub release zip), or vendor the plugin code in the repo.
