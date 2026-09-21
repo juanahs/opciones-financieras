@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 79"
+title: "Capítulo 79 — Correlación y Diversificación en Carteras con Opciones"
 
 ---
 
-# Capítulo 79 — Capítulo 79
+# Capítulo 79 — Correlación y Diversificación en Carteras con Opciones
 
-# Correlación y Diversificación en Carteras con Opciones
+
 
 ---
 

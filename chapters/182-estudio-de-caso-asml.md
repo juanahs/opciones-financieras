@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 182"
+title: "Capítulo 182 — Caso de Estudio: ASML"
 
 ---
 
-# Capítulo 182 — Capítulo 182
+# Capítulo 182 — Caso de Estudio: ASML
 
-# Caso de Estudio: ASML
+
 
 ---
 

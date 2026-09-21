@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 231"
+title: "Capítulo 231 — Gestión Profesional de una Cartera mediante Opciones"
 
 ---
 
-# Capítulo 231 — Capítulo 231
+# Capítulo 231 — Gestión Profesional de una Cartera mediante Opciones
 
-# Gestión Profesional de una Cartera mediante Opciones
+
 
 ---
 

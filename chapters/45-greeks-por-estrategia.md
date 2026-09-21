@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 45"
+title: "Capítulo 45 — Perfil de Greeks por Estrategia"
 
 ---
 
-# Capítulo 45 — Capítulo 45
+# Capítulo 45 — Perfil de Greeks por Estrategia
 
-# Perfil de Greeks por Estrategia
+
 
 ---
 

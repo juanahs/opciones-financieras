@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 27"
+title: "Capítulo 27 — Open Interest y Volumen"
 
 ---
 
-# Capítulo 27 — Capítulo 27
+# Capítulo 27 — Open Interest y Volumen
 
-# Open Interest y Volumen
+
 
 ---
 

@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 26"
+title: "Capítulo 26 — Cómo leer una Option Chain"
 
 ---
 
-# Capítulo 26 — Capítulo 26
+# Capítulo 26 — Cómo leer una Option Chain
 
-# Cómo leer una Option Chain
+
 
 ---
 

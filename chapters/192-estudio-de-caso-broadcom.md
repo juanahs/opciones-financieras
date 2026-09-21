@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 192"
+title: "Capítulo 192 — Caso de Estudio: Broadcom"
 
 ---
 
-# Capítulo 192 — Capítulo 192
+# Capítulo 192 — Caso de Estudio: Broadcom
 
-# Caso de Estudio: Broadcom
+
 
 ---
 

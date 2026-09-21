@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 129"
+title: "Capítulo 129 — Caso Práctico Completo: ASML"
 
 ---
 
-# Capítulo 129 — Capítulo 129
+# Capítulo 129 — Caso Práctico Completo: ASML
 
-# Caso Práctico Completo: ASML
+
 
 ---
 

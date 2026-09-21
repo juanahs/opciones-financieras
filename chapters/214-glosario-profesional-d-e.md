@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 214"
+title: "Capítulo 214 — Glosario Profesional (D-E)"
 
 ---
 
-# Capítulo 214 — Capítulo 214
+# Capítulo 214 — Glosario Profesional (D-E)
 
-# Glosario Profesional (D-E)
+
 
 ---
 

@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 164"
+title: "Capítulo 164 — Framework Profesional para Seleccionar el Vencimiento"
 
 ---
 
-# Capítulo 164 — Capítulo 164
+# Capítulo 164 — Framework Profesional para Seleccionar el Vencimiento
 
-# Framework Profesional para Seleccionar el Vencimiento
+
 
 ---
 

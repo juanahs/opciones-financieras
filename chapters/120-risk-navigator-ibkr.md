@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 120"
+title: "Capítulo 120 — Risk Navigator de Interactive Brokers"
 
 ---
 
-# Capítulo 120 — Capítulo 120
+# Capítulo 120 — Risk Navigator de Interactive Brokers
 
-# Risk Navigator de Interactive Brokers
+
 
 ---
 

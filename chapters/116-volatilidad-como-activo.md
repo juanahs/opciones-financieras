@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 116"
+title: "Capítulo 116 — La Volatilidad como un Activo"
 
 ---
 
-# Capítulo 116 — Capítulo 116
+# Capítulo 116 — La Volatilidad como un Activo
 
-# La Volatilidad como un Activo
+
 
 ---
 

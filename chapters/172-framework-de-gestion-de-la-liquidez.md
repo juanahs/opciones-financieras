@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 172"
+title: "Capítulo 172 — Framework Profesional de Gestión de la Liquidez"
 
 ---
 
-# Capítulo 172 — Capítulo 172
+# Capítulo 172 — Framework Profesional de Gestión de la Liquidez
 
-# Framework Profesional de Gestión de la Liquidez
+
 
 ---
 

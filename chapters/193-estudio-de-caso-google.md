@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 193"
+title: "Capítulo 193 — Caso de Estudio: Alphabet (Google)"
 
 ---
 
-# Capítulo 193 — Capítulo 193
+# Capítulo 193 — Caso de Estudio: Alphabet (Google)
 
-# Caso de Estudio: Alphabet (Google)
+
 
 ---
 

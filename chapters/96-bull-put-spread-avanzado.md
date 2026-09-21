@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 96"
+title: "Capítulo 96 — Bull Put Spread Avanzado"
 
 ---
 
-# Capítulo 96 — Capítulo 96
+# Capítulo 96 — Bull Put Spread Avanzado
 
-# Bull Put Spread Avanzado
+
 
 ---
 

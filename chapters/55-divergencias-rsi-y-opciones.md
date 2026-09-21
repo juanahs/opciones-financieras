@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 55"
+title: "Capítulo 55 — Divergencias RSI y Selección de Estrategias"
 
 ---
 
-# Capítulo 55 — Capítulo 55
+# Capítulo 55 — Divergencias RSI y Selección de Estrategias
 
-# Divergencias RSI y Selección de Estrategias
+
 
 ---
 

@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 117"
+title: "Capítulo 117 — Cómo Leer una Option Chain como un Gestor Profesional"
 
 ---
 
-# Capítulo 117 — Capítulo 117
+# Capítulo 117 — Cómo Leer una Option Chain como un Gestor Profesional
 
-# Cómo Leer una Option Chain como un Gestor Profesional
+
 
 ---
 

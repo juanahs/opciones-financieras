@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 67"
+title: "Capítulo 67 — Volatility Lab de Interactive Brokers"
 
 ---
 
-# Capítulo 67 — Capítulo 67
+# Capítulo 67 — Volatility Lab de Interactive Brokers
 
-# Volatility Lab de Interactive Brokers
+
 
 ---
 

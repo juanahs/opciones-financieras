@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 245"
+title: "Capítulo 245 — Probability Lab de Interactive Brokers"
 
 ---
 
-# Capítulo 245 — Capítulo 245
+# Capítulo 245 — Probability Lab de Interactive Brokers
 
-# Probability Lab de Interactive Brokers
+
 
 ---
 

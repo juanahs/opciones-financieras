@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 235"
+title: "Capítulo 235 — Fiscalidad del Roll"
 
 ---
 
-# Capítulo 235 — Capítulo 235
+# Capítulo 235 — Fiscalidad del Roll
 
-# Fiscalidad del Roll
+
 
 ---
 

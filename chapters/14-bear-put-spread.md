@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 14"
+title: "Capítulo 14 — Bear Put Spread"
 
 ---
 
-# Capítulo 14 — Capítulo 14
+# Capítulo 14 — Bear Put Spread
 
-# Bear Put Spread
+
 
 ---
 

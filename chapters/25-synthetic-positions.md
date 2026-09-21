@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 25"
+title: "Capítulo 25 — Posiciones Sintéticas"
 
 ---
 
-# Capítulo 25 — Capítulo 25
+# Capítulo 25 — Posiciones Sintéticas
 
-# Posiciones Sintéticas
+
 
 ---
 

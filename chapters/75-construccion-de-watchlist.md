@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 75"
+title: "Capítulo 75 — Construcción de una Watchlist para Operar Opciones"
 
 ---
 
-# Capítulo 75 — Capítulo 75
+# Capítulo 75 — Construcción de una Watchlist para Operar Opciones
 
-# Construcción de una Watchlist para Operar Opciones
+
 
 ---
 

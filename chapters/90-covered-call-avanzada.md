@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 90"
+title: "Capítulo 90 — Covered Call Avanzada"
 
 ---
 
-# Capítulo 90 — Capítulo 90
+# Capítulo 90 — Covered Call Avanzada
 
-# Covered Call Avanzada
+
 
 ---
 

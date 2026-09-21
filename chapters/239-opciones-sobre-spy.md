@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 239"
+title: "Capítulo 239 — Opciones sobre SPY"
 
 ---
 
-# Capítulo 239 — Capítulo 239
+# Capítulo 239 — Opciones sobre SPY
 
-# Opciones sobre SPY
+
 
 ---
 

@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 136"
+title: "Capítulo 136 — Modelo Operativo Profesional para LEAPS"
 
 ---
 
-# Capítulo 136 — Capítulo 136
+# Capítulo 136 — Modelo Operativo Profesional para LEAPS
 
-# Modelo Operativo Profesional para LEAPS
+
 
 ---
 

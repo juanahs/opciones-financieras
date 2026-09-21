@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 17"
+title: "Capítulo 17 — Poor Man's Covered Call (PMCC)"
 
 ---
 
-# Capítulo 17 — Capítulo 17
+# Capítulo 17 — Poor Man's Covered Call (PMCC)
 
-# Poor Man's Covered Call (PMCC)
+
 
 ---
 

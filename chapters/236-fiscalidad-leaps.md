@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 236"
+title: "Capítulo 236 — Fiscalidad de las LEAPS"
 
 ---
 
-# Capítulo 236 — Capítulo 236
+# Capítulo 236 — Fiscalidad de las LEAPS
 
-# Fiscalidad de las LEAPS
+
 
 ---
 

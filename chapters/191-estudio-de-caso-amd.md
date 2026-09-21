@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 191"
+title: "Capítulo 191 — Caso de Estudio: AMD"
 
 ---
 
-# Capítulo 191 — Capítulo 191
+# Capítulo 191 — Caso de Estudio: AMD
 
-# Caso de Estudio: AMD
+
 
 ---
 

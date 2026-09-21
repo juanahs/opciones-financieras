@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 149"
+title: "Capítulo 149 — Arquitectura Profesional de una Cartera con Opciones"
 
 ---
 
-# Capítulo 149 — Capítulo 149
+# Capítulo 149 — Arquitectura Profesional de una Cartera con Opciones
 
-# Arquitectura Profesional de una Cartera con Opciones
+
 
 ---
 

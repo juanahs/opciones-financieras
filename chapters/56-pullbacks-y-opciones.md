@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 56"
+title: "Capítulo 56 — Pullbacks y Estrategias con Opciones"
 
 ---
 
-# Capítulo 56 — Capítulo 56
+# Capítulo 56 — Pullbacks y Estrategias con Opciones
 
-# Pullbacks y Estrategias con Opciones
+
 
 ---
 

@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 232"
+title: "Capítulo 232 — Plan de Aprendizaje de 12 Meses"
 
 ---
 
-# Capítulo 232 — Capítulo 232
+# Capítulo 232 — Plan de Aprendizaje de 12 Meses
 
-# Plan de Aprendizaje de 12 Meses
+
 
 ---
 

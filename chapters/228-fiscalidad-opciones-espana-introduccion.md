@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 228"
+title: "Capítulo 228 — Fiscalidad de las Opciones Financieras en España"
 
 ---
 
-# Capítulo 228 — Capítulo 228
+# Capítulo 228 — Fiscalidad de las Opciones Financieras en España
 
-# Fiscalidad de las Opciones Financieras en España
+
 
 ---
 

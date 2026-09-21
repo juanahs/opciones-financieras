@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 124"
+title: "Capítulo 124 — Metodología Operativa Completa del Libro"
 
 ---
 
-# Capítulo 124 — Capítulo 124
+# Capítulo 124 — Metodología Operativa Completa del Libro
 
-# Metodología Operativa Completa del Libro
+
 
 ---
 

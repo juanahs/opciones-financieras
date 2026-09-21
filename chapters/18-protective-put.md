@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 18"
+title: "Capítulo 18 — Protective Put"
 
 ---
 
-# Capítulo 18 — Capítulo 18
+# Capítulo 18 — Protective Put
 
-# Protective Put
+
 
 ---
 

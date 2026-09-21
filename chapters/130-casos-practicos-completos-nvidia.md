@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 130"
+title: "Capítulo 130 — Caso Práctico Completo: NVIDIA"
 
 ---
 
-# Capítulo 130 — Capítulo 130
+# Capítulo 130 — Caso Práctico Completo: NVIDIA
 
-# Caso Práctico Completo: NVIDIA
+
 
 ---
 

@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 146"
+title: "Capítulo 146 — El Ciclo Completo de una Operación Profesional"
 
 ---
 
-# Capítulo 146 — Capítulo 146
+# Capítulo 146 — El Ciclo Completo de una Operación Profesional
 
-# El Ciclo Completo de una Operación Profesional
+
 
 # Introducción
 

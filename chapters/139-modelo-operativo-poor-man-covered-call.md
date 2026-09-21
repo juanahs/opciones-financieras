@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 139"
+title: "Capítulo 139 — Modelo Operativo Profesional para Poor Man's Covered Call (PMCC)"
 
 ---
 
-# Capítulo 139 — Capítulo 139
+# Capítulo 139 — Modelo Operativo Profesional para Poor Man's Covered Call (PMCC)
 
-# Modelo Operativo Profesional para Poor Man's Covered Call (PMCC)
+
 
 ---
 

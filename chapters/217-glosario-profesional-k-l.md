@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 217"
+title: "Capítulo 217 — Glosario Profesional (K-L)"
 
 ---
 
-# Capítulo 217 — Capítulo 217
+# Capítulo 217 — Glosario Profesional (K-L)
 
-# Glosario Profesional (K-L)
+
 
 ---
 

@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 69"
+title: "Capítulo 69 — Portfolio Margin"
 
 ---
 
-# Capítulo 69 — Capítulo 69
+# Capítulo 69 — Portfolio Margin
 
-# Portfolio Margin
+
 
 ---
 

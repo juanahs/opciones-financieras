@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 43"
+title: "Capítulo 43 — Gamma en la práctica"
 
 ---
 
-# Capítulo 43 — Capítulo 43
+# Capítulo 43 — Gamma en la práctica
 
-# Gamma en la práctica
+
 
 ---
 

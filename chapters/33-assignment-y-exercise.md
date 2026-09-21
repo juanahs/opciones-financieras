@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 33"
+title: "Capítulo 33 — Assignment y Exercise"
 
 ---
 
-# Capítulo 33 — Capítulo 33
+# Capítulo 33 — Assignment y Exercise
 
-# Assignment y Exercise
+
 
 ---
 

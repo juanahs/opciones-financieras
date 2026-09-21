@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 84"
+title: "Capítulo 84 — Caso Práctico Completo: Apple"
 
 ---
 
-# Capítulo 84 — Capítulo 84
+# Capítulo 84 — Caso Práctico Completo: Apple
 
-# Caso Práctico Completo: Apple
+
 
 ---
 

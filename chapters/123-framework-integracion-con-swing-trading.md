@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 123"
+title: "Capítulo 123 — Framework de Integración entre Swing Trading y Opciones"
 
 ---
 
-# Capítulo 123 — Capítulo 123
+# Capítulo 123 — Framework de Integración entre Swing Trading y Opciones
 
-# Framework de Integración entre Swing Trading y Opciones
+
 
 ---
 

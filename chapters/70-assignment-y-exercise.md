@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 70"
+title: "Capítulo 70 — Assignment y Exercise"
 
 ---
 
-# Capítulo 70 — Capítulo 70
+# Capítulo 70 — Assignment y Exercise
 
-# Assignment y Exercise
+
 
 ---
 

@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 115"
+title: "Capítulo 115 — Arquitectura de las Estrategias con Opciones"
 
 ---
 
-# Capítulo 115 — Capítulo 115
+# Capítulo 115 — Arquitectura de las Estrategias con Opciones
 
-# Arquitectura de las Estrategias con Opciones
+
 
 ---
 

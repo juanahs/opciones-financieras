@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 244"
+title: "Capítulo 244 — Opciones Durante la Publicación de Resultados"
 
 ---
 
-# Capítulo 244 — Capítulo 244
+# Capítulo 244 — Opciones Durante la Publicación de Resultados
 
-# Opciones Durante la Publicación de Resultados
+
 
 ---
 

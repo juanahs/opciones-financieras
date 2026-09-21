@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 71"
+title: "Capítulo 71 — Early Assignment: Asignación Anticipada"
 
 ---
 
-# Capítulo 71 — Capítulo 71
+# Capítulo 71 — Early Assignment: Asignación Anticipada
 
-# Early Assignment: Asignación Anticipada
+
 
 ---
 

@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 213"
+title: "Capítulo 213 — Glosario Profesional (C)"
 
 ---
 
-# Capítulo 213 — Capítulo 213
+# Capítulo 213 — Glosario Profesional (C)
 
-# Glosario Profesional (C)
+
 
 ---
 

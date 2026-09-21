@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 57"
+title: "Capítulo 57 — Roturas de Máximos y Opciones"
 
 ---
 
-# Capítulo 57 — Capítulo 57
+# Capítulo 57 — Roturas de Máximos y Opciones
 
-# Roturas de Máximos y Opciones
+
 
 ---
 

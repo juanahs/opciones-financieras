@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 59"
+title: "Capítulo 59 — Medias Móviles y Selección de Estrategias con Opciones"
 
 ---
 
-# Capítulo 59 — Capítulo 59
+# Capítulo 59 — Medias Móviles y Selección de Estrategias con Opciones
 
-# Medias Móviles y Selección de Estrategias con Opciones
+
 
 ---
 

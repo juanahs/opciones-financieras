@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 252"
+title: "Capítulo 252 — Caso Práctico: Apple"
 
 ---
 
-# Capítulo 252 — Capítulo 252
+# Capítulo 252 — Caso Práctico: Apple
 
-# Caso Práctico: Apple
+
 
 ---
 

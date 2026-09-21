@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 246"
+title: "Capítulo 246 — Volatility Lab de Interactive Brokers"
 
 ---
 
-# Capítulo 246 — Capítulo 246
+# Capítulo 246 — Volatility Lab de Interactive Brokers
 
-# Volatility Lab de Interactive Brokers
+
 
 ---
 

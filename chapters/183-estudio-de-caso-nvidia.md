@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 183"
+title: "Capítulo 183 — Caso de Estudio: NVIDIA"
 
 ---
 
-# Capítulo 183 — Capítulo 183
+# Capítulo 183 — Caso de Estudio: NVIDIA
 
-# Caso de Estudio: NVIDIA
+
 
 ---
 

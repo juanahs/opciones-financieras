@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 132"
+title: "Capítulo 132 — Caso Práctico Completo: Costco (COST)"
 
 ---
 
-# Capítulo 132 — Capítulo 132
+# Capítulo 132 — Caso Práctico Completo: Costco (COST)
 
-# Caso Práctico Completo: Costco (COST)
+
 
 ---
 

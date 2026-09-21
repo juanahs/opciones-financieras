@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 207"
+title: "Capítulo 207 — Checklist Profesional para Realizar un Roll"
 
 ---
 
-# Capítulo 207 — Capítulo 207
+# Capítulo 207 — Checklist Profesional para Realizar un Roll
 
-# Checklist Profesional para Realizar un Roll
+
 
 ---
 

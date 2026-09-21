@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 41"
+title: "Capítulo 41 — Vega en la práctica"
 
 ---
 
-# Capítulo 41 — Capítulo 41
+# Capítulo 41 — Vega en la práctica
 
-# Vega en la práctica
+
 
 ---
 

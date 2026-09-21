@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 58"
+title: "Capítulo 58 — Hombro-Cabeza-Hombro Invertido y Opciones"
 
 ---
 
-# Capítulo 58 — Capítulo 58
+# Capítulo 58 — Hombro-Cabeza-Hombro Invertido y Opciones
 
-# Hombro-Cabeza-Hombro Invertido y Opciones
+
 
 ---
 

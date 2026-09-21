@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 19"
+title: "Capítulo 19 — Collar"
 
 ---
 
-# Capítulo 19 — Capítulo 19
+# Capítulo 19 — Collar
 
-# Collar
+
 
 ---
 

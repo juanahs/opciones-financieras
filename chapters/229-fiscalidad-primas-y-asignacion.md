@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 229"
+title: "Capítulo 229 — Tributación de las Primas y de la Asignación"
 
 ---
 
-# Capítulo 229 — Capítulo 229
+# Capítulo 229 — Tributación de las Primas y de la Asignación
 
-# Tributación de las Primas y de la Asignación
+
 
 ---
 

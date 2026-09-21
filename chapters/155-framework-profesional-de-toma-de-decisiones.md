@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 155"
+title: "Capítulo 155 — Framework Profesional de Toma de Decisiones"
 
 ---
 
-# Capítulo 155 — Capítulo 155
+# Capítulo 155 — Framework Profesional de Toma de Decisiones
 
-# Framework Profesional de Toma de Decisiones
+
 
 ---
 

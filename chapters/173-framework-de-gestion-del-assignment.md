@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 173"
+title: "Capítulo 173 — Framework Profesional para Gestionar un Assignment"
 
 ---
 
-# Capítulo 173 — Capítulo 173
+# Capítulo 173 — Framework Profesional para Gestionar un Assignment
 
-# Framework Profesional para Gestionar un Assignment
+
 
 ---
 

@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 35"
+title: "Capítulo 35 — Greeks Avanzadas"
 
 ---
 
-# Capítulo 35 — Capítulo 35
+# Capítulo 35 — Greeks Avanzadas
 
-# Greeks Avanzadas
+
 
 ---
 

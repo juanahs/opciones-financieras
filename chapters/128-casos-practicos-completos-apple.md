@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 128"
+title: "Capítulo 128 — Caso Práctico Completo: Apple (AAPL)"
 
 ---
 
-# Capítulo 128 — Capítulo 128
+# Capítulo 128 — Caso Práctico Completo: Apple (AAPL)
 
-# Caso Práctico Completo: Apple (AAPL)
+
 
 ---
 

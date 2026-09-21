@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 95"
+title: "Capítulo 95 — Collar: Protección Financiada"
 
 ---
 
-# Capítulo 95 — Capítulo 95
+# Capítulo 95 — Collar: Protección Financiada
 
-# Collar: Protección Financiada
+
 
 ---
 

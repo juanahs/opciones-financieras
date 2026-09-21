@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 113"
+title: "Capítulo 113 — Reverse Conversion"
 
 ---
 
-# Capítulo 113 — Capítulo 113
+# Capítulo 113 — Reverse Conversion
 
-# Reverse Conversion
+
 
 ---
 

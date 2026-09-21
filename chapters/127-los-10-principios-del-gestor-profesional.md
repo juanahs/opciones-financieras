@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 127"
+title: "Capítulo 127 — Los Diez Principios del Gestor Profesional"
 
 ---
 
-# Capítulo 127 — Capítulo 127
+# Capítulo 127 — Los Diez Principios del Gestor Profesional
 
-# Los Diez Principios del Gestor Profesional
+
 
 ---
 

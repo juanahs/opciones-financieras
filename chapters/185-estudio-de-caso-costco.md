@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 185"
+title: "Capítulo 185 — Caso de Estudio: Costco"
 
 ---
 
-# Capítulo 185 — Capítulo 185
+# Capítulo 185 — Caso de Estudio: Costco
 
-# Caso de Estudio: Costco
+
 
 ---
 

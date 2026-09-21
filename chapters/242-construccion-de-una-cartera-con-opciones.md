@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 242"
+title: "Capítulo 242 — Construcción de una Cartera mediante Opciones"
 
 ---
 
-# Capítulo 242 — Capítulo 242
+# Capítulo 242 — Construcción de una Cartera mediante Opciones
 
-# Construcción de una Cartera mediante Opciones
+
 
 ---
 

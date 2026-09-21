@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 174"
+title: "Capítulo 174 — Framework Profesional para Decidir un Roll"
 
 ---
 
-# Capítulo 174 — Capítulo 174
+# Capítulo 174 — Framework Profesional para Decidir un Roll
 
-# Framework Profesional para Decidir un Roll
+
 
 ---
 

@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 216"
+title: "Capítulo 216 — Glosario Profesional (H-I-J)"
 
 ---
 
-# Capítulo 216 — Capítulo 216
+# Capítulo 216 — Glosario Profesional (H-I-J)
 
-# Glosario Profesional (H-I-J)
+
 
 ---
 

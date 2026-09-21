@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 175"
+title: "Capítulo 175 — Framework Profesional para Salir de una Posición"
 
 ---
 
-# Capítulo 175 — Capítulo 175
+# Capítulo 175 — Framework Profesional para Salir de una Posición
 
-# Framework Profesional para Salir de una Posición
+
 
 ---
 

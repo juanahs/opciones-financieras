@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 52"
+title: "Capítulo 52 — Volume Spread Analysis aplicado a Opciones"
 
 ---
 
-# Capítulo 52 — Capítulo 52
+# Capítulo 52 — Volume Spread Analysis aplicado a Opciones
 
-# Volume Spread Analysis aplicado a Opciones
+
 
 ---
 

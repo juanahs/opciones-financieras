@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 227"
+title: "Capítulo 227 — Bibliografía Audiovisual Recomendada"
 
 ---
 
-# Capítulo 227 — Capítulo 227
+# Capítulo 227 — Bibliografía Audiovisual Recomendada
 
-# Bibliografía Audiovisual Recomendada
+
 
 ---
 

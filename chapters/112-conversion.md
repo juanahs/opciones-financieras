@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 112"
+title: "Capítulo 112 — Conversion"
 
 ---
 
-# Capítulo 112 — Capítulo 112
+# Capítulo 112 — Conversion
 
-# Conversion
+
 
 ---
 

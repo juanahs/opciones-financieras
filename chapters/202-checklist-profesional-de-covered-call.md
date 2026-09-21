@@ -3,13 +3,13 @@ description: ""
 date: 2026-09-21
 tags: []
 draft: false
-title: "Capítulo 202"
+title: "Capítulo 202 — Checklist Profesional para Covered Calls"
 
 ---
 
-# Capítulo 202 — Capítulo 202
+# Capítulo 202 — Checklist Profesional para Covered Calls
 
-# Checklist Profesional para Covered Calls
+
 
 ---
 
